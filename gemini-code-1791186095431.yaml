@@ -1,0 +1,32 @@
+name: Daily Flight Data Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天台灣時間早上 08:00 自動執行
+  workflow_dispatch:     # 也保留手動點擊執行的按鈕
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 檢出專案碼
+        uses: actions/checkout@v3
+
+      - name: 設定 Python 環境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 安裝依賴套件
+        run: pip install cloudscraper beautifulsoup4
+
+      - name: 執行資料抓取
+        run: python fetch_data.py
+
+      - name: 自動提交並推送更新至 GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Auto-update flight data" || exit 0
+          git push
