@@ -37,7 +37,7 @@ def fetch_aircraft_data(aircraft_id):
 
 def main():
     result = {
-        "last_updated": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        "last_updated": datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
     }
     
     for aircraft in AIRCRAFT_LIST:
