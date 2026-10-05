@@ -185,6 +185,129 @@
             padding: 30px;
             color: #a0aec0;
         }
+        /* 內容區塊內距 */
+        .content-area {
+            padding: 24px;
+        }
+
+        /* ===== 手機版 RWD ===== */
+        @media (max-width: 640px) {
+            body {
+                padding: 0;
+            }
+
+            .container {
+                border-radius: 0;
+                box-shadow: none;
+            }
+
+            .content-area {
+                padding: 16px;
+            }
+
+            .event-link-box {
+                font-size: 13px;
+            }
+
+            /* Tab 可左右滑動，避免擠壓 */
+            .tabs-container {
+                margin-left: -16px;
+                margin-right: -16px;
+                padding-left: 16px;
+                padding-right: 16px;
+                -webkit-overflow-scrolling: touch;
+                scrollbar-width: none;
+            }
+
+            .tabs-container::-webkit-scrollbar {
+                display: none;
+            }
+
+            .tab-btn {
+                padding: 10px 14px;
+            }
+
+            /* 搜尋框與更新時間改為上下排列 */
+            .controls-row {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 8px;
+            }
+
+            .search-box {
+                min-width: 0;
+            }
+
+            .search-box input {
+                font-size: 16px; /* 避免 iOS 聚焦時自動放大 */
+            }
+
+            /* 表格改為卡片式 */
+            .table-container {
+                overflow-x: visible;
+            }
+
+            table thead {
+                display: none;
+            }
+
+            table, tbody, tr, td {
+                display: block;
+                width: 100%;
+                box-sizing: border-box;
+            }
+
+            tbody tr {
+                background: #ffffff;
+                border: 1px solid var(--border-color);
+                border-radius: 10px;
+                margin-bottom: 12px;
+                padding: 6px 14px;
+            }
+
+            tr:nth-child(even),
+            tr:hover {
+                background-color: #ffffff;
+            }
+
+            td {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                gap: 12px;
+                padding: 8px 0;
+                border-bottom: 1px dashed var(--border-color);
+                text-align: right;
+            }
+
+            td:last-child {
+                border-bottom: none;
+            }
+
+            td::before {
+                content: attr(data-label);
+                font-size: 12px;
+                font-weight: 600;
+                color: #718096;
+                letter-spacing: 0.5px;
+                text-align: left;
+                flex-shrink: 0;
+            }
+
+            td.no-data {
+                display: block;
+                text-align: center;
+                border-bottom: none;
+            }
+
+            td.no-data::before {
+                content: none;
+            }
+
+            tbody tr:has(td.no-data) {
+                border: none;
+            }
+        }
     </style>
 </head>
 <body>
@@ -340,11 +463,11 @@
 
         tableBody.innerHTML = filteredList.map(item => `
             <tr>
-                <td>${item.date}</td>
-                <td>${item.from}</td>
-                <td>${item.to}</td>
-                <td><strong>${item.flight}</strong></td>
-                <td>${item.flight_time}</td>
+                <td data-label="DATE">${item.date}</td>
+                <td data-label="FROM">${item.from}</td>
+                <td data-label="TO">${item.to}</td>
+                <td data-label="FLIGHT"><strong>${item.flight}</strong></td>
+                <td data-label="FLIGHT TIME">${item.flight_time}</td>
             </tr>
         `).join('');
     }
