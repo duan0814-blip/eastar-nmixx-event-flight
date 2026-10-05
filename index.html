@@ -1,114 +1,368 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-  <meta charset="UTF-8">
-  <title>Eastar Jet 飛機動態追蹤</title>
-  <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f6f8; margin: 20px; color: #333; }
-    .container { max-width: 900px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-    
-    /* 頂部 Tab 樣式 */
-    .tabs { display: flex; gap: 8px; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 15px; }
-    .tab-btn { padding: 8px 16px; border: none; background: #e0e0e0; border-radius: 6px; cursor: pointer; font-weight: bold; }
-    .tab-btn.active { background: #007bff; color: #fff; }
-    
-    /* 工具列 (篩選) */
-    .toolbar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
-    .search-input { padding: 8px 12px; width: 220px; border: 1px solid #ccc; border-radius: 4px; }
-    .update-time { font-size: 12px; color: #777; }
-    
-    /* 表格樣式 (比照原圖 5 欄) */
-    table { width: 100%; border-collapse: collapse; text-align: left; }
-    th, td { padding: 10px; border-bottom: 1px solid #eee; font-size: 14px; }
-    th { background: #fafafa; color: #666; font-weight: 600; }
-    tr:hover { background: #f9f9f9; }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eastar Jet NMIXX 彩繪機航班追蹤器</title>
+    <style>
+        :root {
+            --primary-red: #e52521;
+            --border-color: #e2e8f0;
+            --text-dark: #2d3748;
+            --bg-light: #f8fafc;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 20px 10px;
+            color: var(--text-dark);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            overflow: hidden;
+        }
+
+        /* 頂部 Banner 照片 */
+        .banner-container {
+            width: 100%;
+            max-height: 320px;
+            overflow: hidden;
+            background-color: #e2e8f0;
+        }
+
+        .banner-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+        }
+
+        .content-area {
+            padding: 24px;
+        }
+
+        /* 詳細活動網址連結區塊 */
+        .event-link-box {
+            background-color: var(--bg-light);
+            border: 1px solid var(--border-color);
+            padding: 12px 16px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 14px;
+            word-break: break-all;
+        }
+
+        .event-link-box a {
+            color: #2563eb;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .event-link-box a:hover {
+            text-decoration: underline;
+        }
+
+        /* Tab 按鈕樣式 */
+        .tabs-container {
+            display: flex;
+            gap: 8px;
+            overflow-x: auto;
+            padding-bottom: 8px;
+            margin-bottom: 20px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .tab-btn {
+            padding: 10px 18px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 14px;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.2s ease;
+            /* 預設（未選取）：白色背景、灰框、黑字 */
+            background-color: #ffffff;
+            color: #4a5568;
+            border: 1px solid #cbd5e0;
+        }
+
+        .tab-btn:hover {
+            background-color: #f7fafc;
+            border-color: #a0aec0;
+        }
+
+        /* 被選取狀態：紅色背景、紅白框、白字 */
+        .tab-btn.active {
+            background-color: var(--primary-red);
+            color: #ffffff;
+            border-color: var(--primary-red);
+            box-shadow: 0 2px 6px rgba(229, 37, 33, 0.3);
+        }
+
+        /* 搜尋與更新時間控制列 */
+        .controls-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .search-box {
+            position: relative;
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 10px 12px 10px 36px;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            font-size: 14px;
+            box-sizing: border-box;
+            outline: none;
+        }
+
+        .search-box input:focus {
+            border-color: var(--primary-red);
+        }
+
+        .search-box::before {
+            content: "🔍";
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 14px;
+            opacity: 0.5;
+        }
+
+        .last-updated {
+            font-size: 13px;
+            color: #718096;
+        }
+
+        /* 資料表格 */
+        .table-container {
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f8fafc;
+            color: #4a5568;
+            padding: 12px 16px;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 12px;
+            letter-spacing: 0.5px;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        td {
+            padding: 14px 16px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        tr:nth-child(even) {
+            background-color: #fbfcfd;
+        }
+
+        tr:hover {
+            background-color: #f1f5f9;
+        }
+
+        .no-data {
+            text-align: center;
+            padding: 30px;
+            color: #a0aec0;
+        }
+    </style>
 </head>
 <body>
 
 <div class="container">
-  <!-- Tab 切換列 -->
-  <div class="tabs" id="tabBar">
-    <button class="tab-btn active" onclick="switchTab('HL8717')">HL8717 (彩繪機)</button>
-    <button class="tab-btn" onclick="switchTab('HL8599')">HL8599</button>
-    <button class="tab-btn" onclick="switchTab('HL8759')">HL8759</button>
-    <button class="tab-btn" onclick="switchTab('HL8543')">HL8543</button>
-    <button class="tab-btn" onclick="switchTab('HL8544')">HL8544</button>
-  </div>
+    <!-- Banner 照片 -->
+    <div class="banner-container">
+        <img src="https://lh3.googleusercontent.com/rd-gg/AJWXcNc1vrLwyH2I2lE-gcYvqmRAmdZQX5GFGk9vOhLMqwlJ7K3DbCkW3Ikz1tLT4rCWa_o6Ja7SGy8hGXoSNF8KAZs93T9z0-EHaNhl0yWP4ql2Bo-WmQRuSgk52GOxKxpxbSPoQu_jRopYDu1TQGTMUCO97tStuVnIWH00j-2niHUcjVx3tS9oHcrgSljoWRydfliP5Am9lwd0tFo0etIrAwlDyeqLmw9YxwPKdpMc7XQHT6kN4OSw1hXsz-koLLYB_AoRYjxDZOtO6j44ziPKj6O-nK0xDkGvZU2JIv4TUB4xhSvroM7mJGf3MMDjVPp1TcC3ctxEHuaxn2l2vtZGC-PRtqXq8jcvuukH8VIoJ8ljmoxu35_Sgzd42RoC2VY_NUhw9MNEUmKx7tUJDR-B7NbkNr7sClQVcGJyEg6OlVKcz9tQJNsknNXVF9_Z9cdDVgxeI_5J_GSXbUCItkfJJKU07jb7ov8RZVF0Cj8BijPTck1H5VjCJS34t44ZSsraTUVhEfBFCY3zVyTUTQAYXRZMXJCL7ezDKY2OaiN5SXIxErsGjukMFisudGqhWxusRwOBFkMn18-zbJfYaQp587mzIq1qh87DVNyIAJOqqM5RElggIi7Xwkw2TFrtrKKDsh1u1zPtRie4NYvtmQYR7NY3hkNU6HxwUiYOz_C89EAgfX3iS3ZmdJuy_Eg9pHH8GjvzQOFWau7547VQBQkHQm1sWS9ac1vRiKYJerDGo38DjOh0R970ErMxdPA7sIBl4qNY6lQf39CF9fzqnuW84VpsEsQDaVMnfMOmyNWrlz0HRWfP8ZCwj8WE2fWdO5ICn42XdYhvHaqRA-Q69rCKuqZ5nJyHxCfYRqsjEeuAbA7l9mhGHo1cH2kMk6bIN_kA78kZWEz2M5thBrbUH--XywJmBoNVJx7Wozve5t3iriLeHSFTxOSmyPba6VfLq6icpcBCI6xRyLsywYYz3Ey4NQ6MwblEqyoYhu2kXtqay7mjQ12rQc9UM5AgoGbi3_MZB3xzaZgXXKSoK9T8aS9y3b6I51n-Gy6nRJdANmpyGUc0mOszeM94uKXoUL8rm4LYFHa8rJt4O0MubUdxPTqqS4sorHVLk_qOVQMjuAPfK9FUlNyDdPF7MQ-DllFjPljqLXTgB7nngZj9a5b6_KQ3XyoBfS5E4hX6swntkU25Og3j1AEuhZEh0GEpYxcgeeDVIY5SIfiGPDTzsxng4GpSoX6dAKgIEDNnEvShnQZHJX1OsyvoTd7jATuYupUDqcYXuZOj_EmLgSS_L2Xdlw73_ZHIP0AfuD71fKjWk6aEcQe3EzDF5pWFwT6da_pWQAx4xqXqpAZ2Ge7mgDi2f_rPzvikj7vKxzLN5xwA1Q6G9jG366g55DB_sWhcKbHjzHc2yq0URwpDaIj4Sa9B2qUjZpkHuwwrT4xiuQ=s1024-rj" alt="Eastar Jet NMIXX Banner">
+    </div>
 
-  <!-- 工具列 -->
-  <div class="toolbar">
-    <input type="text" id="searchInput" class="search-input" placeholder="🔍 搜尋城市 (如 ICN, NRT, Taipei)..." onkeyup="filterCity()">
-    <span class="update-time" id="updateTime">最後更新時間：載入中...</span>
-  </div>
+    <div class="content-area">
+        <!-- 詳細活動網址區塊 -->
+        <div class="event-link-box">
+            <strong>詳細活動網址：</strong>
+            <a href="https://www.eastarjet.com/newstar/PGWTA00002?eventNo=2650&gubun=I&searchIndex=1" target="_blank" rel="noopener noreferrer">
+                https://www.eastarjet.com/newstar/PGWTA00002?eventNo=2650&gubun=I&searchIndex=1
+            </a>
+        </div>
 
-  <!-- 資料表格 -->
-  <table>
-    <thead>
-      <tr>
-        <th>DATE</th>
-        <th>FROM</th>
-        <th>TO</th>
-        <th>FLIGHT</th>
-        <th>FLIGHT TIME</th>
-      </tr>
-    </thead>
-    <tbody id="tableBody"></tbody>
-  </table>
+        <!-- 飛機編號 Tab 分頁 -->
+        <div class="tabs-container" id="tabsContainer">
+            <!-- 由 JavaScript 自動產生 -->
+        </div>
+
+        <!-- 搜尋列與最後更新時間 -->
+        <div class="controls-row">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜尋城市 (如 ICN, NRT, Taipei)..." oninput="filterData()">
+            </div>
+            <div class="last-updated" id="lastUpdated">
+                最後更新時間：載入中...
+            </div>
+        </div>
+
+        <!-- 表格區域 -->
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>DATE</th>
+                        <th>FROM</th>
+                        <th>TO</th>
+                        <th>FLIGHT</th>
+                        <th>FLIGHT TIME</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                    <tr>
+                        <td colspan="5" class="no-data">資料讀取中...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
 </div>
 
 <script>
-  let rawData = {};
-  let currentAircraft = 'HL8717';
+    let flightData = {};
+    let currentAircraft = '';
 
-  // 1. 初始化讀取 JSON 資料
-  fetch('data.json')
-    .then(res => res.json())
-    .then(data => {
-      rawData = data;
-      document.getElementById('updateTime').innerText = `最後更新時間：${data.last_updated || '未知'}`;
-      renderTable();
-    })
-    .catch(err => console.error("資料讀取失敗:", err));
+    // 飛機編號顯示名稱對照
+    const aircraftLabels = {
+        "HL8717": "HL8717 (彩繪機)",
+        "HL8599": "HL8599",
+        "HL8759": "HL8759",
+        "HL8543": "HL8543",
+        "HL8544": "HL8544"
+    };
 
-  // 2. 切換 Tab
-  function switchTab(aircraft) {
-    currentAircraft = aircraft;
-    document.querySelectorAll('.tab-btn').forEach(btn => {
-      btn.classList.toggle('active', btn.innerText.includes(aircraft));
-    });
-    renderTable();
-  }
+    // 載入 JSON 資料
+    async function loadFlightData() {
+        try {
+            const response = await fetch('data.json?t=' + new Date().getTime());
+            flightData = await response.json();
 
-  // 3. 渲染表格
-  function renderTable() {
-    const list = rawData[currentAircraft] || [];
-    const filterText = document.getElementById('searchInput').value.toLowerCase();
-    const tbody = document.getElementById('tableBody');
-    tbody.innerHTML = '';
+            // 更新時間
+            if (flightData.last_updated) {
+                document.getElementById('lastUpdated').textContent = `最後更新時間：${flightData.last_updated}`;
+            }
 
-    list.forEach(item => {
-      const matchFrom = item.from.toLowerCase().includes(filterText);
-      const matchTo = item.to.toLowerCase().includes(filterText);
+            // 初始化 Tabs
+            initTabs();
+        } catch (error) {
+            console.error('Error loading JSON:', error);
+            document.getElementById('tableBody').innerHTML = `<tr><td colspan="5" class="no-data">無法載入資料，請確認 data.json 是否存在。</td></tr>`;
+        }
+    }
 
-      if (matchFrom || matchTo) {
-        const tr = document.createElement('tr');
-        tr.innerHTML = `
-          <td>${item.date}</td>
-          <td>${item.from}</td>
-          <td>${item.to}</td>
-          <td>${item.flight}</td>
-          <td>${item.flight_time}</td>
-        `;
-        tbody.appendChild(tr);
-      }
-    });
-  }
+    // 初始化 Tab 按鈕
+    function initTabs() {
+        const tabsContainer = document.getElementById('tabsContainer');
+        tabsContainer.innerHTML = '';
 
-  // 4. 城市動態過濾
-  function filterCity() {
-    renderTable();
-  }
+        // 取得所有飛機編號 (排除 last_updated)
+        const aircraftList = Object.keys(flightData).filter(key => key !== 'last_updated');
+
+        if (aircraftList.length === 0) return;
+
+        // 預設選取第一個飛機編號
+        currentAircraft = aircraftList[0];
+
+        aircraftList.forEach(code => {
+            const btn = document.createElement('button');
+            btn.className = `tab-btn ${code === currentAircraft ? 'active' : ''}`;
+            btn.textContent = aircraftLabels[code] || code;
+            btn.onclick = () => switchTab(code);
+            tabsContainer.appendChild(btn);
+        });
+
+        renderTable();
+    }
+
+    // 切換 Tab
+    function switchTab(aircraftCode) {
+        currentAircraft = aircraftCode;
+
+        // 更新按鈕 active 狀態
+        document.querySelectorAll('.tab-btn').forEach(btn => {
+            const label = aircraftLabels[aircraftCode] || aircraftCode;
+            if (btn.textContent === label) {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
+        });
+
+        // 清空搜尋框並重新渲染
+        document.getElementById('searchInput').value = '';
+        renderTable();
+    }
+
+    // 渲染表格資料
+    function renderTable() {
+        const tableBody = document.getElementById('tableBody');
+        const searchTerm = document.getElementById('searchInput').value.toLowerCase().trim();
+
+        const list = flightData[currentAircraft] || [];
+
+        // 搜尋過濾
+        const filteredList = list.filter(item => {
+            return (
+                item.date.toLowerCase().includes(searchTerm) ||
+                item.from.toLowerCase().includes(searchTerm) ||
+                item.to.toLowerCase().includes(searchTerm) ||
+                item.flight.toLowerCase().includes(searchTerm)
+            );
+        });
+
+        if (filteredList.length === 0) {
+            tableBody.innerHTML = `<tr><td colspan="5" class="no-data">沒有找到相關航班紀錄</td></tr>`;
+            return;
+        }
+
+        tableBody.innerHTML = filteredList.map(item => `
+            <tr>
+                <td>${item.date}</td>
+                <td>${item.from}</td>
+                <td>${item.to}</td>
+                <td><strong>${item.flight}</strong></td>
+                <td>${item.flight_time}</td>
+            </tr>
+        `).join('');
+    }
+
+    // 搜尋過濾事件處理
+    function filterData() {
+        renderTable();
+    }
+
+    // 頁面載入時執行
+    window.onload = loadFlightData;
 </script>
 
 </body>
