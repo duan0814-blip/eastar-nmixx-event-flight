@@ -1,9 +1,13 @@
-name: Daily Flight Data Sync
+name: Hourly Flight Data Sync
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天台灣時間早上 08:00 自動執行
+    - cron: '7 * * * *'  # 每小時第 7 分自動執行（避開整點尖峰，GitHub 排程可能延遲數分鐘）
   workflow_dispatch:     # 也保留手動點擊執行的按鈕
+
+concurrency:            # 避免上一輪還沒跑完就重疊執行
+  group: flight-data-sync
+  cancel-in-progress: false
 
 jobs:
   sync:
@@ -29,4 +33,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
           git commit -m "Auto-update flight data" || exit 0
+          git pull --rebase origin main
           git push
