@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06 02:18:02",
+  "last_updated": "2026-10-06 08:44:18",
   "HL8717": [
     {
       "date": "05 Oct 2026",
@@ -238,16 +238,16 @@
       "to": "Sapporo(CTS)",
       "flight": "ZE625",
       "flight_time": "2:10"
-    },
-    {
-      "date": "28 Sep 2026",
-      "from": "Da Nang(DAD)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE594",
-      "flight_time": "4:06"
     }
   ],
   "HL8599": [
+    {
+      "date": "05 Oct 2026",
+      "from": "Nha Trang(CXR)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE562",
+      "flight_time": "4:22"
+    },
     {
       "date": "05 Oct 2026",
       "from": "Seoul(ICN)",
@@ -506,22 +506,22 @@
       "to": "Okinawa(OKA)",
       "flight": "ZE633",
       "flight_time": "1:46"
-    },
-    {
-      "date": "28 Sep 2026",
-      "from": "Taipei(TPE)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE8814",
-      "flight_time": "2:06"
     }
   ],
   "HL8759": [
     {
       "date": "05 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE601",
+      "flight_time": "—"
+    },
+    {
+      "date": "05 Oct 2026",
       "from": "Hong Kong(HKG)",
       "to": "Seoul(ICN)",
       "flight": "ZE862",
-      "flight_time": "—"
+      "flight_time": "2:58"
     },
     {
       "date": "05 Oct 2026",
@@ -747,7 +747,7 @@
       "from": "Manado(MDC)",
       "to": "Seoul(ICN)",
       "flight": "ZE536",
-      "flight_time": "—"
+      "flight_time": "5:08"
     },
     {
       "date": "05 Oct 2026",
@@ -969,11 +969,18 @@
   ],
   "HL8544": [
     {
+      "date": "06 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Osaka(KIX)",
+      "flight": "ZE611",
+      "flight_time": "—"
+    },
+    {
       "date": "05 Oct 2026",
       "from": "Taipei(TPE)",
       "to": "Seoul(ICN)",
       "flight": "ZE8814",
-      "flight_time": "—"
+      "flight_time": "1:56"
     },
     {
       "date": "05 Oct 2026",
@@ -1149,13 +1156,6 @@
       "to": "Ningbo(NGB)",
       "flight": "ZE8571",
       "flight_time": "1:46"
-    },
-    {
-      "date": "28 Sep 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:13"
     }
   ]
 }
