@@ -1,12 +1,19 @@
 {
-  "last_updated": "2026-10-06 23:00:57",
+  "last_updated": "2026-10-07 04:08:46",
   "HL8717": [
+    {
+      "date": "06 Oct 2026",
+      "from": "Almaty(ALA)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE136",
+      "flight_time": "—"
+    },
     {
       "date": "06 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Almaty(ALA)",
       "flight": "ZE135",
-      "flight_time": "—"
+      "flight_time": "6:27"
     },
     {
       "date": "06 Oct 2026",
@@ -236,10 +243,17 @@
   "HL8599": [
     {
       "date": "06 Oct 2026",
+      "from": "Da Nang(DAD)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE594",
+      "flight_time": "—"
+    },
+    {
+      "date": "06 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Da Nang(DAD)",
       "flight": "ZE593",
-      "flight_time": "—"
+      "flight_time": "4:24"
     },
     {
       "date": "06 Oct 2026",
@@ -478,29 +492,22 @@
       "to": "Yantai(YNT)",
       "flight": "ZE817",
       "flight_time": "1:03"
-    },
-    {
-      "date": "29 Sep 2026",
-      "from": "Taipei(TPE)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE8814",
-      "flight_time": "2:07"
-    },
-    {
-      "date": "29 Sep 2026",
-      "from": "Seoul(ICN)",
-      "to": "Taipei(TPE)",
-      "flight": "ZE8813",
-      "flight_time": "2:05"
     }
   ],
   "HL8759": [
     {
       "date": "06 Oct 2026",
+      "from": "Nha Trang(CXR)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE562",
+      "flight_time": "—"
+    },
+    {
+      "date": "06 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Nha Trang(CXR)",
       "flight": "ZE561",
-      "flight_time": "—"
+      "flight_time": "5:03"
     },
     {
       "date": "06 Oct 2026",
@@ -718,22 +725,22 @@
       "to": "Seoul(ICN)",
       "flight": "ZE136",
       "flight_time": "5:03"
-    },
-    {
-      "date": "29 Sep 2026",
-      "from": "Seoul(ICN)",
-      "to": "Almaty(ALA)",
-      "flight": "ZE135",
-      "flight_time": "7:03"
     }
   ],
   "HL8543": [
     {
       "date": "06 Oct 2026",
+      "from": "Phu Quoc(PQC)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE582",
+      "flight_time": "—"
+    },
+    {
+      "date": "06 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Phu Quoc(PQC)",
       "flight": "ZE581",
-      "flight_time": "—"
+      "flight_time": "5:18"
     },
     {
       "date": "06 Oct 2026",
@@ -937,22 +944,22 @@
       "to": "Seoul(ICN)",
       "flight": "ZE536",
       "flight_time": "5:11"
-    },
-    {
-      "date": "29 Sep 2026",
-      "from": "Seoul(ICN)",
-      "to": "Manado(MDC)",
-      "flight": "ZE535",
-      "flight_time": "5:07"
     }
   ],
   "HL8544": [
     {
       "date": "06 Oct 2026",
+      "from": "Taipei(TPE)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE8814",
+      "flight_time": "—"
+    },
+    {
+      "date": "06 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Taipei(TPE)",
       "flight": "ZE8813",
-      "flight_time": "—"
+      "flight_time": "2:19"
     },
     {
       "date": "06 Oct 2026",
@@ -1142,13 +1149,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE594",
       "flight_time": "4:06"
-    },
-    {
-      "date": "29 Sep 2026",
-      "from": "Seoul(ICN)",
-      "to": "Da Nang(DAD)",
-      "flight": "ZE593",
-      "flight_time": "4:09"
     }
   ]
 }
