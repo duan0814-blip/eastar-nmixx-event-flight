@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-07 04:08:46",
+  "last_updated": "2026-10-07 08:34:34",
   "HL8717": [
     {
       "date": "06 Oct 2026",
       "from": "Almaty(ALA)",
       "to": "Seoul(ICN)",
       "flight": "ZE136",
-      "flight_time": "—"
+      "flight_time": "5:32"
     },
     {
       "date": "06 Oct 2026",
@@ -243,10 +243,17 @@
   "HL8599": [
     {
       "date": "06 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Fukuoka(FUK)",
+      "flight": "ZE645",
+      "flight_time": "—"
+    },
+    {
+      "date": "06 Oct 2026",
       "from": "Da Nang(DAD)",
       "to": "Seoul(ICN)",
       "flight": "ZE594",
-      "flight_time": "—"
+      "flight_time": "3:57"
     },
     {
       "date": "06 Oct 2026",
@@ -500,7 +507,7 @@
       "from": "Nha Trang(CXR)",
       "to": "Seoul(ICN)",
       "flight": "ZE562",
-      "flight_time": "—"
+      "flight_time": "4:27"
     },
     {
       "date": "06 Oct 2026",
@@ -727,232 +734,21 @@
       "flight_time": "5:03"
     }
   ],
-  "HL8543": [
+  "HL8543": [],
+  "HL8544": [
     {
       "date": "06 Oct 2026",
-      "from": "Phu Quoc(PQC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE582",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE601",
       "flight_time": "—"
     },
-    {
-      "date": "06 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Phu Quoc(PQC)",
-      "flight": "ZE581",
-      "flight_time": "5:18"
-    },
-    {
-      "date": "06 Oct 2026",
-      "from": "Fukuoka(FUK)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE648",
-      "flight_time": "1:00"
-    },
-    {
-      "date": "06 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE647",
-      "flight_time": "1:12"
-    },
-    {
-      "date": "05 Oct 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:08"
-    },
-    {
-      "date": "05 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Manado(MDC)",
-      "flight": "ZE535",
-      "flight_time": "5:18"
-    },
-    {
-      "date": "05 Oct 2026",
-      "from": "Okinawa(OKA)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE632",
-      "flight_time": "1:56"
-    },
-    {
-      "date": "05 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Okinawa(OKA)",
-      "flight": "ZE631",
-      "flight_time": "1:56"
-    },
-    {
-      "date": "04 Oct 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:16"
-    },
-    {
-      "date": "04 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Manado(MDC)",
-      "flight": "ZE535",
-      "flight_time": "5:08"
-    },
-    {
-      "date": "04 Oct 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE610",
-      "flight_time": "2:15"
-    },
-    {
-      "date": "04 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Tokyo(NRT)",
-      "flight": "ZE609",
-      "flight_time": "1:49"
-    },
-    {
-      "date": "03 Oct 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:21"
-    },
-    {
-      "date": "03 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Manado(MDC)",
-      "flight": "ZE535",
-      "flight_time": "5:06"
-    },
-    {
-      "date": "03 Oct 2026",
-      "from": "Ningbo(NGB)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE8572",
-      "flight_time": "1:52"
-    },
-    {
-      "date": "03 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Ningbo(NGB)",
-      "flight": "ZE8571",
-      "flight_time": "1:53"
-    },
-    {
-      "date": "02 Oct 2026",
-      "from": "Hong Kong(HKG)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE862",
-      "flight_time": "3:09"
-    },
-    {
-      "date": "02 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Hong Kong(HKG)",
-      "flight": "ZE861",
-      "flight_time": "3:14"
-    },
-    {
-      "date": "02 Oct 2026",
-      "from": "Yantai(YNT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE820",
-      "flight_time": "1:01"
-    },
-    {
-      "date": "02 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Yantai(YNT)",
-      "flight": "ZE819",
-      "flight_time": "0:56"
-    },
-    {
-      "date": "02 Oct 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE606",
-      "flight_time": "2:15"
-    },
-    {
-      "date": "01 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Tokyo(NRT)",
-      "flight": "ZE605",
-      "flight_time": "1:53"
-    },
-    {
-      "date": "01 Oct 2026",
-      "from": "Fukuoka(FUK)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE644",
-      "flight_time": "1:01"
-    },
-    {
-      "date": "01 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE643",
-      "flight_time": "1:03"
-    },
-    {
-      "date": "01 Oct 2026",
-      "from": "Fukuoka(FUK)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE648",
-      "flight_time": "1:02"
-    },
-    {
-      "date": "01 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE647",
-      "flight_time": "1:05"
-    },
-    {
-      "date": "30 Sep 2026",
-      "from": "Phu Quoc(PQC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE582",
-      "flight_time": "5:12"
-    },
-    {
-      "date": "30 Sep 2026",
-      "from": "Seoul(ICN)",
-      "to": "Phu Quoc(PQC)",
-      "flight": "ZE581",
-      "flight_time": "5:15"
-    },
-    {
-      "date": "30 Sep 2026",
-      "from": "Okinawa(OKA)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE632",
-      "flight_time": "1:57"
-    },
-    {
-      "date": "30 Sep 2026",
-      "from": "Seoul(ICN)",
-      "to": "Okinawa(OKA)",
-      "flight": "ZE631",
-      "flight_time": "1:44"
-    },
-    {
-      "date": "29 Sep 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:11"
-    }
-  ],
-  "HL8544": [
     {
       "date": "06 Oct 2026",
       "from": "Taipei(TPE)",
       "to": "Seoul(ICN)",
       "flight": "ZE8814",
-      "flight_time": "—"
+      "flight_time": "1:59"
     },
     {
       "date": "06 Oct 2026",
@@ -1142,13 +938,6 @@
       "to": "Fukuoka(FUK)",
       "flight": "ZE645",
       "flight_time": "0:57"
-    },
-    {
-      "date": "29 Sep 2026",
-      "from": "Da Nang(DAD)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE594",
-      "flight_time": "4:06"
     }
   ]
 }
