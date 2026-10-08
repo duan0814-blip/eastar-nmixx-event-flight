@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-08 04:32:54",
+  "last_updated": "2026-10-08 08:55:07",
   "HL8717": [
+    {
+      "date": "07 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE601",
+      "flight_time": "—"
+    },
     {
       "date": "07 Oct 2026",
       "from": "Fukuoka(FUK)",
@@ -227,6 +234,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "07 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Yantai(YNT)",
+      "flight": "ZE817",
+      "flight_time": "—"
+    },
     {
       "date": "07 Oct 2026",
       "from": "Tokyo(NRT)",
@@ -464,16 +478,16 @@
       "to": "Yantai(YNT)",
       "flight": "ZE817",
       "flight_time": "1:03"
-    },
-    {
-      "date": "30 Sep 2026",
-      "from": "Da Nang(DAD)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE594",
-      "flight_time": "4:06"
     }
   ],
   "HL8759": [
+    {
+      "date": "08 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Sapporo(CTS)",
+      "flight": "ZE625",
+      "flight_time": "—"
+    },
     {
       "date": "07 Oct 2026",
       "from": "Shanghai(PVG)",
@@ -711,13 +725,6 @@
       "to": "Tokyo(NRT)",
       "flight": "ZE609",
       "flight_time": "1:51"
-    },
-    {
-      "date": "30 Sep 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:15"
     }
   ],
   "HL8543": [
@@ -726,7 +733,7 @@
       "from": "Manado(MDC)",
       "to": "Seoul(ICN)",
       "flight": "ZE536",
-      "flight_time": "—"
+      "flight_time": "5:23"
     },
     {
       "date": "07 Oct 2026",
@@ -930,13 +937,6 @@
       "to": "Fukuoka(FUK)",
       "flight": "ZE647",
       "flight_time": "1:05"
-    },
-    {
-      "date": "30 Sep 2026",
-      "from": "Phu Quoc(PQC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE582",
-      "flight_time": "5:12"
     }
   ],
   "HL8544": [
@@ -945,7 +945,7 @@
       "from": "Nha Trang(CXR)",
       "to": "Seoul(ICN)",
       "flight": "ZE562",
-      "flight_time": "—"
+      "flight_time": "4:35"
     },
     {
       "date": "07 Oct 2026",
