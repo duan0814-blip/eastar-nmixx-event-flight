@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08 19:07:14",
+  "last_updated": "2026-10-08 20:07:22",
   "HL8717": [
     {
       "date": "08 Oct 2026",
@@ -220,6 +220,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "08 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Manado(MDC)",
+      "flight": "ZE535",
+      "flight_time": "—"
+    },
     {
       "date": "08 Oct 2026",
       "from": "Yantai(YNT)",
@@ -460,6 +467,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "08 Oct 2026",
+      "from": "Fukuoka(FUK)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE650",
+      "flight_time": "—"
+    },
     {
       "date": "08 Oct 2026",
       "from": "Seoul(ICN)",
@@ -709,6 +723,13 @@
   "HL8543": [
     {
       "date": "08 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Da Nang(DAD)",
+      "flight": "ZE593",
+      "flight_time": "—"
+    },
+    {
+      "date": "08 Oct 2026",
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE610",
@@ -912,6 +933,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "08 Oct 2026",
+      "from": "Fukuoka(FUK)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE644",
+      "flight_time": "—"
+    },
     {
       "date": "08 Oct 2026",
       "from": "Seoul(ICN)",
