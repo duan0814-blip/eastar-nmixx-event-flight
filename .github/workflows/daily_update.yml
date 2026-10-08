@@ -1,25 +1,31 @@
 name: Hourly Flight Data Sync
 
 on:
+  # 主要觸發：由外部排程（cron-job.org）每小時第 7 分呼叫 workflow_dispatch API
+  # GitHub 內建 schedule 在免費帳號常被延遲/丟棄（實測 4~9 小時才跑一次），僅留作備援
   schedule:
-    - cron: '7 * * * *'  # 每小時第 7 分自動執行（避開整點尖峰，GitHub 排程可能延遲數分鐘）
-  workflow_dispatch:     # 也保留手動點擊執行的按鈕
+    - cron: '7 * * * *'
+  workflow_dispatch:     # 外部排程與手動按鈕都走這裡
 
 concurrency:            # 避免上一輪還沒跑完就重疊執行
   group: flight-data-sync
   cancel-in-progress: false
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: 檢出專案碼
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
 
       - name: 設定 Python 環境
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.10'
+          python-version: '3.12'
 
       - name: 安裝依賴套件
         run: pip install cloudscraper beautifulsoup4
