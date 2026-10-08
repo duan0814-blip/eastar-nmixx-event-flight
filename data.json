@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-09 05:14:48",
+  "last_updated": "2026-10-09 06:07:16",
   "HL8717": [
     {
       "date": "08 Oct 2026",
       "from": "Chiang Mai(CNX)",
       "to": "Seoul(ICN)",
       "flight": "ZE518",
-      "flight_time": "—"
+      "flight_time": "4:39"
     },
     {
       "date": "08 Oct 2026",
@@ -210,13 +210,6 @@
       "to": "Okinawa(OKA)",
       "flight": "ZE631",
       "flight_time": "1:53"
-    },
-    {
-      "date": "01 Oct 2026",
-      "from": "Da Nang(DAD)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE594",
-      "flight_time": "3:53"
     }
   ],
   "HL8599": [
@@ -719,7 +712,7 @@
       "from": "Da Nang(DAD)",
       "to": "Seoul(ICN)",
       "flight": "ZE594",
-      "flight_time": "—"
+      "flight_time": "3:55"
     },
     {
       "date": "08 Oct 2026",
