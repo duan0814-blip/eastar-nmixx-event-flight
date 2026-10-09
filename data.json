@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-09 09:07:15",
+  "last_updated": "2026-10-09 09:57:42",
   "HL8717": [
     {
       "date": "09 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Osaka(KIX)",
       "flight": "ZE611",
-      "flight_time": "—"
+      "flight_time": "1:21"
     },
     {
       "date": "08 Oct 2026",
@@ -931,7 +931,7 @@
       "from": "Seoul(ICN)",
       "to": "Yantai(YNT)",
       "flight": "ZE817",
-      "flight_time": "—"
+      "flight_time": "0:53"
     },
     {
       "date": "08 Oct 2026",
