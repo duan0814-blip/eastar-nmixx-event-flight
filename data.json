@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09 10:07:15",
+  "last_updated": "2026-10-09 11:07:18",
   "HL8717": [
     {
       "date": "09 Oct 2026",
@@ -220,6 +220,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "09 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Okinawa(OKA)",
+      "flight": "ZE631",
+      "flight_time": "—"
+    },
     {
       "date": "08 Oct 2026",
       "from": "Manado(MDC)",
@@ -719,7 +726,7 @@
       "from": "Seoul(ICN)",
       "to": "Sapporo(CTS)",
       "flight": "ZE625",
-      "flight_time": "—"
+      "flight_time": "2:20"
     },
     {
       "date": "08 Oct 2026",
@@ -926,6 +933,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "09 Oct 2026",
+      "from": "Yantai(YNT)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE818",
+      "flight_time": "—"
+    },
     {
       "date": "08 Oct 2026",
       "from": "Seoul(ICN)",
