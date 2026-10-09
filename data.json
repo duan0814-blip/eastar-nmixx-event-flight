@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-09 11:07:18",
+  "last_updated": "2026-10-09 12:07:18",
   "HL8717": [
+    {
+      "date": "09 Oct 2026",
+      "from": "Osaka(KIX)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE612",
+      "flight_time": "—"
+    },
     {
       "date": "09 Oct 2026",
       "from": "Seoul(ICN)",
@@ -472,7 +479,7 @@
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE606",
-      "flight_time": "—"
+      "flight_time": "2:00"
     },
     {
       "date": "08 Oct 2026",
@@ -711,16 +718,16 @@
       "to": "Seoul(ICN)",
       "flight": "ZE610",
       "flight_time": "2:11"
-    },
-    {
-      "date": "02 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Tokyo(NRT)",
-      "flight": "ZE609",
-      "flight_time": "1:52"
     }
   ],
   "HL8543": [
+    {
+      "date": "09 Oct 2026",
+      "from": "Sapporo(CTS)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE626",
+      "flight_time": "—"
+    },
     {
       "date": "09 Oct 2026",
       "from": "Seoul(ICN)",
@@ -938,7 +945,7 @@
       "from": "Yantai(YNT)",
       "to": "Seoul(ICN)",
       "flight": "ZE818",
-      "flight_time": "—"
+      "flight_time": "1:01"
     },
     {
       "date": "08 Oct 2026",
