@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09 20:07:17",
+  "last_updated": "2026-10-09 21:07:17",
   "HL8717": [
     {
       "date": "09 Oct 2026",
@@ -457,13 +457,6 @@
       "to": "Tokyo(NRT)",
       "flight": "ZE605",
       "flight_time": "1:54"
-    },
-    {
-      "date": "02 Oct 2026",
-      "from": "Fukuoka(FUK)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE650",
-      "flight_time": "1:05"
     }
   ],
   "HL8759": [
