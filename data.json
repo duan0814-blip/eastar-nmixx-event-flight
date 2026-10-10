@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10 22:07:14",
+  "last_updated": "2026-10-10 23:07:15",
   "HL8717": [
     {
       "date": "10 Oct 2026",
@@ -457,13 +457,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE862",
       "flight_time": "3:12"
-    },
-    {
-      "date": "03 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Hong Kong(HKG)",
-      "flight": "ZE861",
-      "flight_time": "3:09"
     }
   ],
   "HL8759": [
@@ -754,7 +747,7 @@
       "from": "Seoul(ICN)",
       "to": "Hong Kong(HKG)",
       "flight": "ZE861",
-      "flight_time": "—"
+      "flight_time": "3:11"
     },
     {
       "date": "10 Oct 2026",
@@ -968,6 +961,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "10 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Taipei(TPE)",
+      "flight": "ZE8813",
+      "flight_time": "—"
+    },
     {
       "date": "10 Oct 2026",
       "from": "Sapporo(CTS)",
