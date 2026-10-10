@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10 21:07:13",
+  "last_updated": "2026-10-10 21:31:39",
   "HL8717": [
     {
       "date": "10 Oct 2026",
@@ -1219,13 +1219,6 @@
       "to": "Fukuoka(FUK)",
       "flight": "ZE645",
       "flight_time": "1:00"
-    },
-    {
-      "date": "03 Oct 2026",
-      "from": "Fukuoka(FUK)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE644",
-      "flight_time": "1:05"
     }
   ]
 }
