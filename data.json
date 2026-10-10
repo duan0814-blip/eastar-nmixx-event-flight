@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-10 07:07:16",
+  "last_updated": "2026-10-10 08:07:15",
   "HL8717": [
+    {
+      "date": "09 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Fukuoka(FUK)",
+      "flight": "ZE645",
+      "flight_time": "—"
+    },
     {
       "date": "09 Oct 2026",
       "from": "Taipei(TPE)",
@@ -232,7 +239,7 @@
       "from": "Manado(MDC)",
       "to": "Seoul(ICN)",
       "flight": "ZE536",
-      "flight_time": "—"
+      "flight_time": "5:18"
     },
     {
       "date": "09 Oct 2026",
@@ -467,6 +474,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "09 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Yantai(YNT)",
+      "flight": "ZE817",
+      "flight_time": "—"
+    },
     {
       "date": "09 Oct 2026",
       "from": "Hong Kong(HKG)",
@@ -718,13 +732,6 @@
       "to": "Okinawa(OKA)",
       "flight": "ZE631",
       "flight_time": "1:46"
-    },
-    {
-      "date": "02 Oct 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:17"
     }
   ],
   "HL8543": [
@@ -1184,13 +1191,6 @@
       "to": "Tokyo(NRT)",
       "flight": "ZE609",
       "flight_time": "1:54"
-    },
-    {
-      "date": "02 Oct 2026",
-      "from": "Phu Quoc(PQC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE582",
-      "flight_time": "5:10"
     }
   ]
 }
