@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-11 00:07:15",
+  "last_updated": "2026-10-11 01:07:13",
   "HL8717": [
     {
       "date": "10 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Da Nang(DAD)",
       "flight": "ZE593",
-      "flight_time": "—"
+      "flight_time": "4:07"
     },
     {
       "date": "10 Oct 2026",
@@ -224,13 +224,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE594",
       "flight_time": "4:12"
-    },
-    {
-      "date": "03 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Da Nang(DAD)",
-      "flight": "ZE593",
-      "flight_time": "4:08"
     }
   ],
   "HL8599": [
@@ -966,7 +959,7 @@
       "from": "Seoul(ICN)",
       "to": "Taipei(TPE)",
       "flight": "ZE8813",
-      "flight_time": "—"
+      "flight_time": "2:08"
     },
     {
       "date": "10 Oct 2026",
