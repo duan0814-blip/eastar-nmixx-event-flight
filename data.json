@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-10 18:07:15",
+  "last_updated": "2026-10-10 19:07:13",
   "HL8717": [
     {
       "date": "10 Oct 2026",
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE608",
-      "flight_time": "—"
+      "flight_time": "2:05"
     },
     {
       "date": "10 Oct 2026",
@@ -224,13 +224,6 @@
       "to": "Da Nang(DAD)",
       "flight": "ZE593",
       "flight_time": "4:08"
-    },
-    {
-      "date": "03 Oct 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE608",
-      "flight_time": "2:10"
     }
   ],
   "HL8599": [
@@ -239,7 +232,7 @@
       "from": "Ningbo(NGB)",
       "to": "Seoul(ICN)",
       "flight": "ZE8572",
-      "flight_time": "—"
+      "flight_time": "1:50"
     },
     {
       "date": "10 Oct 2026",
@@ -460,6 +453,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "10 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Almaty(ALA)",
+      "flight": "ZE135",
+      "flight_time": "—"
+    },
     {
       "date": "10 Oct 2026",
       "from": "Tokushima(TKS)",
@@ -937,13 +937,6 @@
       "to": "Manado(MDC)",
       "flight": "ZE535",
       "flight_time": "5:06"
-    },
-    {
-      "date": "03 Oct 2026",
-      "from": "Ningbo(NGB)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE8572",
-      "flight_time": "1:52"
     }
   ],
   "HL8544": [
@@ -1205,13 +1198,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE644",
       "flight_time": "1:05"
-    },
-    {
-      "date": "03 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE643",
-      "flight_time": "0:57"
     }
   ]
 }
