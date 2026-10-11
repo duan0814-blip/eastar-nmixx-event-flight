@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-11 07:07:13",
+  "last_updated": "2026-10-11 08:07:22",
   "HL8717": [
     {
       "date": "10 Oct 2026",
       "from": "Da Nang(DAD)",
       "to": "Seoul(ICN)",
       "flight": "ZE594",
-      "flight_time": "—"
+      "flight_time": "4:08"
     },
     {
       "date": "10 Oct 2026",
@@ -224,13 +224,6 @@
       "to": "Sapporo(CTS)",
       "flight": "ZE625",
       "flight_time": "2:15"
-    },
-    {
-      "date": "03 Oct 2026",
-      "from": "Da Nang(DAD)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE594",
-      "flight_time": "4:12"
     }
   ],
   "HL8599": [
@@ -239,7 +232,7 @@
       "from": "Manado(MDC)",
       "to": "Seoul(ICN)",
       "flight": "ZE536",
-      "flight_time": "—"
+      "flight_time": "5:14"
     },
     {
       "date": "10 Oct 2026",
@@ -951,13 +944,6 @@
       "to": "Tokyo(NRT)",
       "flight": "ZE609",
       "flight_time": "1:49"
-    },
-    {
-      "date": "03 Oct 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:21"
     }
   ],
   "HL8544": [
