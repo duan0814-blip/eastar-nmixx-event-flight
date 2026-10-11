@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11 18:07:15",
+  "last_updated": "2026-10-11 19:07:13",
   "HL8717": [
     {
       "date": "11 Oct 2026",
@@ -231,13 +231,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE644",
       "flight_time": "1:01"
-    },
-    {
-      "date": "04 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE643",
-      "flight_time": "0:56"
     }
   ],
   "HL8599": [
@@ -246,7 +239,7 @@
       "from": "Jeju(CJU)",
       "to": "Seoul(GMP)",
       "flight": "ZE226",
-      "flight_time": "—"
+      "flight_time": "0:47"
     },
     {
       "date": "11 Oct 2026",
@@ -746,13 +739,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE650",
       "flight_time": "1:13"
-    },
-    {
-      "date": "04 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE649",
-      "flight_time": "0:58"
     }
   ],
   "HL8543": [
@@ -982,6 +968,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "11 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Phu Quoc(PQC)",
+      "flight": "ZE581",
+      "flight_time": "—"
+    },
     {
       "date": "11 Oct 2026",
       "from": "Yantai(YNT)",
