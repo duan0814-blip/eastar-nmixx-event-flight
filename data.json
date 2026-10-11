@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-11 19:07:13",
+  "last_updated": "2026-10-11 20:07:15",
   "HL8717": [
     {
       "date": "11 Oct 2026",
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE604",
-      "flight_time": "—"
+      "flight_time": "1:59"
     },
     {
       "date": "11 Oct 2026",
@@ -234,6 +234,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "11 Oct 2026",
+      "from": "Seoul(GMP)",
+      "to": "Jeju(CJU)",
+      "flight": "ZE235",
+      "flight_time": "—"
+    },
     {
       "date": "11 Oct 2026",
       "from": "Jeju(CJU)",
@@ -481,6 +488,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "11 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Hong Kong(HKG)",
+      "flight": "ZE861",
+      "flight_time": "—"
+    },
     {
       "date": "11 Oct 2026",
       "from": "Tokyo(NRT)",
@@ -747,7 +761,7 @@
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE608",
-      "flight_time": "—"
+      "flight_time": "2:06"
     },
     {
       "date": "11 Oct 2026",
@@ -1240,13 +1254,6 @@
       "to": "Tokyo(NRT)",
       "flight": "ZE601",
       "flight_time": "1:51"
-    },
-    {
-      "date": "04 Oct 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE608",
-      "flight_time": "2:17"
     }
   ]
 }
