@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12 22:07:16",
+  "last_updated": "2026-10-12 23:07:14",
   "HL8717": [
     {
       "date": "12 Oct 2026",
@@ -220,6 +220,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "12 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Taipei(TPE)",
+      "flight": "ZE8813",
+      "flight_time": "—"
+    },
     {
       "date": "12 Oct 2026",
       "from": "Fukuoka(FUK)",
@@ -493,7 +500,7 @@
       "from": "Seoul(ICN)",
       "to": "Hong Kong(HKG)",
       "flight": "ZE861",
-      "flight_time": "—"
+      "flight_time": "3:11"
     },
     {
       "date": "12 Oct 2026",
