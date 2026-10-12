@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-12 23:07:14",
+  "last_updated": "2026-10-13 00:07:17",
   "HL8717": [
     {
       "date": "12 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Phu Quoc(PQC)",
       "flight": "ZE581",
-      "flight_time": "—"
+      "flight_time": "5:06"
     },
     {
       "date": "12 Oct 2026",
@@ -497,6 +497,13 @@
   "HL8759": [
     {
       "date": "12 Oct 2026",
+      "from": "Hong Kong(HKG)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE862",
+      "flight_time": "—"
+    },
+    {
+      "date": "12 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Hong Kong(HKG)",
       "flight": "ZE861",
@@ -760,13 +767,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE862",
       "flight_time": "2:58"
-    },
-    {
-      "date": "05 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Hong Kong(HKG)",
-      "flight": "ZE861",
-      "flight_time": "3:22"
     }
   ],
   "HL8543": [
