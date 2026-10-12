@@ -501,7 +501,7 @@
 <div class="container">
     <!-- Banner 照片 -->
     <div class="banner-container">
-        <img src="banner.png" alt="Eastar Jet NMIXX Banner">
+        <img src="banner.webp" fetchpriority="high" alt="Eastar Jet NMIXX Banner">
     </div>
 
     <div class="content-area">
@@ -556,12 +556,12 @@
     // start / end 格式：YYYY-MM-DD（台灣時間，用來判斷狀態與倒數）
     // endLabel：結束日想顯示成文字時填（例如「11月底」）；tag：日期後的小標籤；note：小字備註；img：活動圖片
     const EVENTS = [
-        { name: "彩繪機", img: "event1.png", start: "2026-11-11", end: "2027-04-30" },
-        { name: "特別版實體登機證", img: "event2.png", note: "韓國 → 海外（大邱不提供）",
+        { name: "彩繪機", img: "event1.webp", start: "2026-11-11", end: "2027-04-30" },
+        { name: "特別版實體登機證", img: "event2.webp", note: "韓國 → 海外（大邱不提供）",
           start: "2026-10-02", end: "2026-11-30", endLabel: "11月底", tag: "限量" },
-        { name: "隨機成員電子登機證", img: "event3.png", note: "海外 → 韓國", start: "2026-10-02", end: "2026-12-31" },
-        { name: "特別座椅頭枕套", img: "event4.png", start: "2026-10-02", end: "2027-02-28" },
-        { name: "登機/下機音樂", img: "event5.png", start: "2026-10-20", end: "2026-12-31" }
+        { name: "隨機成員電子登機證", img: "event3.webp", note: "海外 → 韓國", start: "2026-10-02", end: "2026-12-31" },
+        { name: "特別座椅頭枕套", img: "event4.webp", start: "2026-10-02", end: "2027-02-28" },
+        { name: "登機/下機音樂", img: "event5.webp", start: "2026-10-20", end: "2026-12-31" }
     ];
 
     // 渲染活動日期看板（依台灣日期自動判斷 進行中 / 即將開始 / 已結束）
@@ -717,7 +717,7 @@
 
     // 頁面載入時執行
     renderEvents();
-    window.onload = loadFlightData;
+    loadFlightData();  // 不等圖片載完，直接讀取航班資料
 </script>
 
 </body>
