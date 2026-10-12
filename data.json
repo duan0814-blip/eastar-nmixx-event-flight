@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13 06:07:15",
+  "last_updated": "2026-10-13 07:07:15",
   "HL8717": [
     {
       "date": "12 Oct 2026",
@@ -492,16 +492,16 @@
       "to": "Ningbo(NGB)",
       "flight": "ZE8571",
       "flight_time": "1:54"
-    },
-    {
-      "date": "05 Oct 2026",
-      "from": "Nha Trang(CXR)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE562",
-      "flight_time": "4:22"
     }
   ],
   "HL8759": [
+    {
+      "date": "12 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE601",
+      "flight_time": "—"
+    },
     {
       "date": "12 Oct 2026",
       "from": "Hong Kong(HKG)",
