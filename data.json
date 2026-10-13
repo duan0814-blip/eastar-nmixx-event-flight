@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-13 12:07:16",
+  "last_updated": "2026-10-13 13:07:17",
   "HL8717": [
     {
       "date": "13 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Okinawa(OKA)",
       "flight": "ZE631",
-      "flight_time": "—"
+      "flight_time": "1:46"
     },
     {
       "date": "12 Oct 2026",
@@ -224,16 +224,16 @@
       "to": "Seoul(ICN)",
       "flight": "ZE632",
       "flight_time": "1:45"
-    },
-    {
-      "date": "06 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Okinawa(OKA)",
-      "flight": "ZE631",
-      "flight_time": "1:59"
     }
   ],
   "HL8599": [
+    {
+      "date": "13 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokushima(TKS)",
+      "flight": "ZE671",
+      "flight_time": "—"
+    },
     {
       "date": "12 Oct 2026",
       "from": "Taipei(TPE)",
@@ -507,7 +507,7 @@
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE602",
-      "flight_time": "—"
+      "flight_time": "2:00"
     },
     {
       "date": "12 Oct 2026",
@@ -767,13 +767,6 @@
       "to": "Osaka(KIX)",
       "flight": "ZE613",
       "flight_time": "1:22"
-    },
-    {
-      "date": "06 Oct 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE602",
-      "flight_time": "2:05"
     }
   ],
   "HL8543": [
@@ -782,7 +775,7 @@
       "from": "Seoul(ICN)",
       "to": "Fukuoka(FUK)",
       "flight": "ZE647",
-      "flight_time": "—"
+      "flight_time": "1:13"
     },
     {
       "date": "12 Oct 2026",
@@ -1000,13 +993,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE648",
       "flight_time": "1:00"
-    },
-    {
-      "date": "06 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE647",
-      "flight_time": "1:12"
     }
   ],
   "HL8544": [
@@ -1275,13 +1261,6 @@
       "to": "Sapporo(CTS)",
       "flight": "ZE627",
       "flight_time": "2:05"
-    },
-    {
-      "date": "06 Oct 2026",
-      "from": "Osaka(KIX)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE612",
-      "flight_time": "1:25"
     }
   ]
 }
