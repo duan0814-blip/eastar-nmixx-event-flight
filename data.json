@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14 06:07:17",
+  "last_updated": "2026-10-14 07:07:21",
   "HL8717": [
     {
       "date": "13 Oct 2026",
@@ -765,6 +765,13 @@
   "HL8543": [
     {
       "date": "13 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE601",
+      "flight_time": "—"
+    },
+    {
+      "date": "13 Oct 2026",
       "from": "Fukuoka(FUK)",
       "to": "Seoul(ICN)",
       "flight": "ZE650",
@@ -1001,7 +1008,7 @@
       "from": "Nha Trang(CXR)",
       "to": "Seoul(ICN)",
       "flight": "ZE562",
-      "flight_time": "—"
+      "flight_time": "4:32"
     },
     {
       "date": "13 Oct 2026",
