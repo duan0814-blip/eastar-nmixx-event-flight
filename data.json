@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-13 14:07:14",
+  "last_updated": "2026-10-13 15:07:14",
   "HL8717": [
+    {
+      "date": "13 Oct 2026",
+      "from": "Okinawa(OKA)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE632",
+      "flight_time": "—"
+    },
     {
       "date": "13 Oct 2026",
       "from": "Seoul(ICN)",
@@ -232,7 +239,7 @@
       "from": "Seoul(ICN)",
       "to": "Tokushima(TKS)",
       "flight": "ZE671",
-      "flight_time": "—"
+      "flight_time": "1:28"
     },
     {
       "date": "12 Oct 2026",
@@ -492,13 +499,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE8572",
       "flight_time": "1:38"
-    },
-    {
-      "date": "06 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Ningbo(NGB)",
-      "flight": "ZE8571",
-      "flight_time": "1:54"
     }
   ],
   "HL8759": [
@@ -1003,6 +1003,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "13 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Osaka(KIX)",
+      "flight": "ZE613",
+      "flight_time": "—"
+    },
     {
       "date": "13 Oct 2026",
       "from": "Osaka(KIX)",
