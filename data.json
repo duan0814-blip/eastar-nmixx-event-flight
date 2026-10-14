@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15 07:07:14",
+  "last_updated": "2026-10-15 07:51:04",
   "HL8717": [
     {
       "date": "14 Oct 2026",
@@ -232,7 +232,7 @@
       "from": "Nha Trang(CXR)",
       "to": "Seoul(ICN)",
       "flight": "ZE562",
-      "flight_time": "—"
+      "flight_time": "4:35"
     },
     {
       "date": "14 Oct 2026",
@@ -514,7 +514,7 @@
       "from": "Manado(MDC)",
       "to": "Seoul(ICN)",
       "flight": "ZE536",
-      "flight_time": "—"
+      "flight_time": "5:22"
     },
     {
       "date": "14 Oct 2026",
@@ -1247,13 +1247,6 @@
       "to": "Fukuoka(FUK)",
       "flight": "ZE647",
       "flight_time": "0:58"
-    },
-    {
-      "date": "07 Oct 2026",
-      "from": "Nha Trang(CXR)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE562",
-      "flight_time": "4:35"
     }
   ]
 }
