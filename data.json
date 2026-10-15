@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-15 15:07:14",
+  "last_updated": "2026-10-15 16:07:14",
   "HL8717": [
+    {
+      "date": "15 Oct 2026",
+      "from": "Yantai(YNT)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE820",
+      "flight_time": "—"
+    },
     {
       "date": "15 Oct 2026",
       "from": "Seoul(ICN)",
@@ -514,7 +521,7 @@
       "from": "Fukuoka(FUK)",
       "to": "Seoul(ICN)",
       "flight": "ZE648",
-      "flight_time": "—"
+      "flight_time": "1:10"
     },
     {
       "date": "15 Oct 2026",
@@ -1001,7 +1008,7 @@
       "from": "Seoul(ICN)",
       "to": "Osaka(KIX)",
       "flight": "ZE613",
-      "flight_time": "—"
+      "flight_time": "1:15"
     },
     {
       "date": "15 Oct 2026",
@@ -1254,13 +1261,6 @@
       "to": "Fukuoka(FUK)",
       "flight": "ZE643",
       "flight_time": "1:05"
-    },
-    {
-      "date": "08 Oct 2026",
-      "from": "Fukuoka(FUK)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE648",
-      "flight_time": "0:58"
     }
   ]
 }
