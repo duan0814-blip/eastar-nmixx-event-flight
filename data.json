@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16 00:07:16",
+  "last_updated": "2026-10-16 01:07:15",
   "HL8717": [
     {
       "date": "15 Oct 2026",
@@ -513,13 +513,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE536",
       "flight_time": "5:25"
-    },
-    {
-      "date": "08 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Manado(MDC)",
-      "flight": "ZE535",
-      "flight_time": "5:16"
     }
   ],
   "HL8759": [
@@ -768,7 +761,7 @@
       "from": "Seoul(ICN)",
       "to": "Phu Quoc(PQC)",
       "flight": "ZE581",
-      "flight_time": "—"
+      "flight_time": "5:35"
     },
     {
       "date": "15 Oct 2026",
@@ -1000,13 +993,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE594",
       "flight_time": "3:55"
-    },
-    {
-      "date": "08 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Da Nang(DAD)",
-      "flight": "ZE593",
-      "flight_time": "4:13"
     }
   ],
   "HL8544": [
