@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15 12:23:25",
+  "last_updated": "2026-10-15 13:07:15",
   "HL8717": [
     {
       "date": "15 Oct 2026",
@@ -224,13 +224,6 @@
       "to": "Chiang Mai(CNX)",
       "flight": "ZE517",
       "flight_time": "5:06"
-    },
-    {
-      "date": "08 Oct 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE602",
-      "flight_time": "2:07"
     }
   ],
   "HL8599": [
@@ -514,7 +507,7 @@
       "from": "Seoul(ICN)",
       "to": "Fukuoka(FUK)",
       "flight": "ZE647",
-      "flight_time": "—"
+      "flight_time": "0:55"
     },
     {
       "date": "14 Oct 2026",
@@ -754,7 +747,7 @@
       "from": "Seoul(ICN)",
       "to": "Okinawa(OKA)",
       "flight": "ZE631",
-      "flight_time": "—"
+      "flight_time": "1:49"
     },
     {
       "date": "14 Oct 2026",
@@ -1001,7 +994,7 @@
       "from": "Osaka(KIX)",
       "to": "Seoul(ICN)",
       "flight": "ZE612",
-      "flight_time": "—"
+      "flight_time": "1:34"
     },
     {
       "date": "15 Oct 2026",
@@ -1253,13 +1246,6 @@
       "from": "Fukuoka(FUK)",
       "to": "Seoul(ICN)",
       "flight": "ZE648",
-      "flight_time": "0:58"
-    },
-    {
-      "date": "08 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE647",
       "flight_time": "0:58"
     }
   ]
