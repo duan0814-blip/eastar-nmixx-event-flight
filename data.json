@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-16 11:07:14",
+  "last_updated": "2026-10-16 12:07:16",
   "HL8717": [
     {
       "date": "16 Oct 2026",
       "from": "Fukuoka(FUK)",
       "to": "Seoul(ICN)",
       "flight": "ZE646",
-      "flight_time": "—"
+      "flight_time": "1:01"
     },
     {
       "date": "15 Oct 2026",
@@ -248,6 +248,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "16 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Fukuoka(FUK)",
+      "flight": "ZE647",
+      "flight_time": "—"
+    },
     {
       "date": "15 Oct 2026",
       "from": "Manado(MDC)",
@@ -753,13 +760,6 @@
       "to": "Yantai(YNT)",
       "flight": "ZE819",
       "flight_time": "0:59"
-    },
-    {
-      "date": "09 Oct 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE606",
-      "flight_time": "2:00"
     }
   ],
   "HL8543": [
@@ -768,7 +768,7 @@
       "from": "Seoul(ICN)",
       "to": "Tokyo(NRT)",
       "flight": "ZE609",
-      "flight_time": "—"
+      "flight_time": "1:52"
     },
     {
       "date": "15 Oct 2026",
@@ -1261,13 +1261,6 @@
       "to": "Zhengzhou(CGO)",
       "flight": "ZE853",
       "flight_time": "1:56"
-    },
-    {
-      "date": "09 Oct 2026",
-      "from": "Yantai(YNT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE818",
-      "flight_time": "1:01"
     }
   ]
 }
