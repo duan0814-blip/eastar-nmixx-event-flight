@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-17 07:26:42",
+  "last_updated": "2026-10-17 08:07:15",
   "HL8717": [
+    {
+      "date": "16 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Yantai(YNT)",
+      "flight": "ZE817",
+      "flight_time": "—"
+    },
     {
       "date": "16 Oct 2026",
       "from": "Shanghai(PVG)",
@@ -241,6 +248,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "16 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Fukuoka(FUK)",
+      "flight": "ZE645",
+      "flight_time": "—"
+    },
     {
       "date": "16 Oct 2026",
       "from": "Fukuoka(FUK)",
@@ -506,13 +520,6 @@
       "to": "Ningbo(NGB)",
       "flight": "ZE8571",
       "flight_time": "1:49"
-    },
-    {
-      "date": "09 Oct 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:18"
     }
   ],
   "HL8759": [
@@ -768,7 +775,7 @@
       "from": "Manado(MDC)",
       "to": "Seoul(ICN)",
       "flight": "ZE536",
-      "flight_time": "—"
+      "flight_time": "5:20"
     },
     {
       "date": "16 Oct 2026",
