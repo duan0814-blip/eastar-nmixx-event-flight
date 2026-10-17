@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-17 20:07:19",
+  "last_updated": "2026-10-17 21:07:16",
   "HL8717": [
+    {
+      "date": "17 Oct 2026",
+      "from": "Fukuoka(FUK)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE650",
+      "flight_time": "—"
+    },
     {
       "date": "17 Oct 2026",
       "from": "Seoul(ICN)",
@@ -248,6 +255,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "17 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Da Nang(DAD)",
+      "flight": "ZE593",
+      "flight_time": "—"
+    },
     {
       "date": "17 Oct 2026",
       "from": "Tokyo(NRT)",
@@ -1226,13 +1240,6 @@
       "to": "Taipei(TPE)",
       "flight": "ZE8813",
       "flight_time": "2:08"
-    },
-    {
-      "date": "10 Oct 2026",
-      "from": "Sapporo(CTS)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE628",
-      "flight_time": "2:29"
     }
   ]
 }
