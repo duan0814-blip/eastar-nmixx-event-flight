@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18 07:07:15",
+  "last_updated": "2026-10-18 08:07:16",
   "HL8717": [
     {
       "date": "17 Oct 2026",
@@ -245,13 +245,6 @@
       "to": "Osaka(KIX)",
       "flight": "ZE611",
       "flight_time": "1:22"
-    },
-    {
-      "date": "10 Oct 2026",
-      "from": "Da Nang(DAD)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE594",
-      "flight_time": "4:08"
     }
   ],
   "HL8599": [
@@ -260,7 +253,7 @@
       "from": "Da Nang(DAD)",
       "to": "Seoul(ICN)",
       "flight": "ZE594",
-      "flight_time": "—"
+      "flight_time": "4:19"
     },
     {
       "date": "17 Oct 2026",
@@ -534,13 +527,6 @@
       "to": "Seoul(GMP)",
       "flight": "(ESR262F)",
       "flight_time": "0:21"
-    },
-    {
-      "date": "10 Oct 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:14"
     }
   ],
   "HL8759": [
