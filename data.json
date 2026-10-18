@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18 22:28:21",
+  "last_updated": "2026-10-18 23:07:15",
   "HL8717": [
     {
       "date": "18 Oct 2026",
@@ -725,13 +725,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE862",
       "flight_time": "3:15"
-    },
-    {
-      "date": "11 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Hong Kong(HKG)",
-      "flight": "ZE861",
-      "flight_time": "3:09"
     }
   ],
   "HL8543": [
