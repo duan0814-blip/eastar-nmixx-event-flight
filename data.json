@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19 00:07:17",
+  "last_updated": "2026-10-19 01:07:18",
   "HL8717": [
     {
       "date": "18 Oct 2026",
@@ -500,7 +500,7 @@
       "from": "Seoul(ICN)",
       "to": "Manado(MDC)",
       "flight": "ZE535",
-      "flight_time": "—"
+      "flight_time": "5:08"
     },
     {
       "date": "18 Oct 2026",
@@ -723,6 +723,13 @@
   "HL8543": [
     {
       "date": "18 Oct 2026",
+      "from": "Chiang Mai(CNX)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE518",
+      "flight_time": "—"
+    },
+    {
+      "date": "18 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Chiang Mai(CNX)",
       "flight": "ZE517",
@@ -940,6 +947,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "18 Oct 2026",
+      "from": "Hong Kong(HKG)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE862",
+      "flight_time": "—"
+    },
     {
       "date": "18 Oct 2026",
       "from": "Seoul(ICN)",
@@ -1163,13 +1177,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE582",
       "flight_time": "5:23"
-    },
-    {
-      "date": "11 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Phu Quoc(PQC)",
-      "flight": "ZE581",
-      "flight_time": "5:29"
     }
   ]
 }
