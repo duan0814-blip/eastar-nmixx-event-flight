@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-20 03:13:39",
+  "last_updated": "2026-10-20 04:07:17",
   "HL8717": [
     {
       "date": "19 Oct 2026",
       "from": "Hong Kong(HKG)",
       "to": "Seoul(ICN)",
       "flight": "ZE862",
-      "flight_time": "—"
+      "flight_time": "3:02"
     },
     {
       "date": "19 Oct 2026",
@@ -704,13 +704,6 @@
       "to": "Tokyo(NRT)",
       "flight": "ZE601",
       "flight_time": "1:54"
-    },
-    {
-      "date": "12 Oct 2026",
-      "from": "Hong Kong(HKG)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE862",
-      "flight_time": "3:07"
     }
   ],
   "HL8543": [
