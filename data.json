@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20 04:07:17",
+  "last_updated": "2026-10-20 05:07:17",
   "HL8717": [
     {
       "date": "19 Oct 2026",
@@ -485,13 +485,6 @@
       "to": "Tokushima(TKS)",
       "flight": "ZE671",
       "flight_time": "1:28"
-    },
-    {
-      "date": "12 Oct 2026",
-      "from": "Taipei(TPE)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE8814",
-      "flight_time": "2:03"
     }
   ],
   "HL8759": [
