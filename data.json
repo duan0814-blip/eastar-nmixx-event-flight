@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-21 00:07:14",
+  "last_updated": "2026-10-21 01:07:16",
   "HL8717": [
     {
       "date": "20 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Nha Trang(CXR)",
       "flight": "ZE561",
-      "flight_time": "—"
+      "flight_time": "4:36"
     },
     {
       "date": "20 Oct 2026",
@@ -278,6 +278,13 @@
   "HL8599": [
     {
       "date": "20 Oct 2026",
+      "from": "Hong Kong(HKG)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE862",
+      "flight_time": "—"
+    },
+    {
+      "date": "20 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Hong Kong(HKG)",
       "flight": "ZE861",
@@ -513,13 +520,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE594",
       "flight_time": "4:01"
-    },
-    {
-      "date": "13 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Da Nang(DAD)",
-      "flight": "ZE593",
-      "flight_time": "4:20"
     }
   ],
   "HL8759": [
@@ -732,13 +732,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE536",
       "flight_time": "5:22"
-    },
-    {
-      "date": "13 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Manado(MDC)",
-      "flight": "ZE535",
-      "flight_time": "5:14"
     }
   ],
   "HL8543": [
