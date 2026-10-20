@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-21 01:07:16",
+  "last_updated": "2026-10-21 02:07:21",
   "HL8717": [
+    {
+      "date": "20 Oct 2026",
+      "from": "Nha Trang(CXR)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE562",
+      "flight_time": "—"
+    },
     {
       "date": "20 Oct 2026",
       "from": "Seoul(ICN)",
@@ -266,13 +273,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE136",
       "flight_time": "5:25"
-    },
-    {
-      "date": "13 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Almaty(ALA)",
-      "flight": "ZE135",
-      "flight_time": "6:48"
     }
   ],
   "HL8599": [
@@ -528,7 +528,7 @@
       "from": "Seoul(ICN)",
       "to": "Almaty(ALA)",
       "flight": "ZE135",
-      "flight_time": "—"
+      "flight_time": "6:59"
     },
     {
       "date": "20 Oct 2026",
@@ -1177,13 +1177,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE562",
       "flight_time": "4:32"
-    },
-    {
-      "date": "13 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Nha Trang(CXR)",
-      "flight": "ZE561",
-      "flight_time": "4:36"
     }
   ]
 }
