@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22 10:07:15",
+  "last_updated": "2026-10-22 11:07:19",
   "HL8717": [
     {
       "date": "22 Oct 2026",
@@ -295,7 +295,7 @@
       "from": "Seoul(ICN)",
       "to": "Sapporo(CTS)",
       "flight": "ZE625",
-      "flight_time": "—"
+      "flight_time": "2:05"
     },
     {
       "date": "21 Oct 2026",
@@ -538,6 +538,13 @@
   ],
   "HL8759": [
     {
+      "date": "22 Oct 2026",
+      "from": "Fukuoka(FUK)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE646",
+      "flight_time": "—"
+    },
+    {
       "date": "21 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Fukuoka(FUK)",
@@ -756,6 +763,13 @@
     }
   ],
   "HL8543": [
+    {
+      "date": "22 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Okinawa(OKA)",
+      "flight": "ZE631",
+      "flight_time": "—"
+    },
     {
       "date": "21 Oct 2026",
       "from": "Phu Quoc(PQC)",
