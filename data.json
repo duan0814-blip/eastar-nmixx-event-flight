@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22 21:07:18",
+  "last_updated": "2026-10-22 21:42:29",
   "HL8717": [
     {
       "date": "22 Oct 2026",
@@ -288,7 +288,7 @@
       "from": "Fukuoka(FUK)",
       "to": "Seoul(ICN)",
       "flight": "ZE644",
-      "flight_time": "—"
+      "flight_time": "1:01"
     },
     {
       "date": "22 Oct 2026",
@@ -539,6 +539,13 @@
   "HL8759": [
     {
       "date": "22 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Shanghai(PVG)",
+      "flight": "ZE871",
+      "flight_time": "—"
+    },
+    {
+      "date": "22 Oct 2026",
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE608",
@@ -746,13 +753,6 @@
       "to": "Tokyo(NRT)",
       "flight": "ZE605",
       "flight_time": "1:56"
-    },
-    {
-      "date": "15 Oct 2026",
-      "from": "Fukuoka(FUK)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE650",
-      "flight_time": "1:07"
     }
   ],
   "HL8543": [
