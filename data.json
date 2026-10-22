@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23 02:27:32",
+  "last_updated": "2026-10-23 03:07:19",
   "HL8717": [
     {
       "date": "22 Oct 2026",
@@ -968,6 +968,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "22 Oct 2026",
+      "from": "Nha Trang(CXR)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE562",
+      "flight_time": "—"
+    },
     {
       "date": "22 Oct 2026",
       "from": "Seoul(ICN)",
