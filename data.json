@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24 20:07:15",
+  "last_updated": "2026-10-24 21:07:17",
   "HL8717": [
     {
       "date": "24 Oct 2026",
@@ -502,6 +502,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "24 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Da Nang(DAD)",
+      "flight": "ZE593",
+      "flight_time": "—"
+    },
     {
       "date": "24 Oct 2026",
       "from": "Tokyo(NRT)",
