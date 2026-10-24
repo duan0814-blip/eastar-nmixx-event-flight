@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-24 18:07:14",
+  "last_updated": "2026-10-24 18:46:22",
   "HL8717": [
+    {
+      "date": "24 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Almaty(ALA)",
+      "flight": "ZE135",
+      "flight_time": "—"
+    },
     {
       "date": "24 Oct 2026",
       "from": "Hanamaki(HNA)",
@@ -246,7 +253,7 @@
       "from": "Osaka(KIX)",
       "to": "Seoul(ICN)",
       "flight": "ZE614",
-      "flight_time": "—"
+      "flight_time": "1:26"
     },
     {
       "date": "24 Oct 2026",
