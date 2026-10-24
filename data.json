@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24 19:07:15",
+  "last_updated": "2026-10-24 20:07:15",
   "HL8717": [
     {
       "date": "24 Oct 2026",
@@ -238,16 +238,16 @@
       "to": "Seoul(ICN)",
       "flight": "ZE650",
       "flight_time": "1:08"
-    },
-    {
-      "date": "17 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE649",
-      "flight_time": "1:01"
     }
   ],
   "HL8599": [
+    {
+      "date": "24 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Nha Trang(CXR)",
+      "flight": "ZE561",
+      "flight_time": "—"
+    },
     {
       "date": "24 Oct 2026",
       "from": "Osaka(KIX)",
@@ -499,13 +499,6 @@
       "to": "Da Nang(DAD)",
       "flight": "ZE593",
       "flight_time": "4:12"
-    },
-    {
-      "date": "17 Oct 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE608",
-      "flight_time": "2:09"
     }
   ],
   "HL8759": [
@@ -514,7 +507,7 @@
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE608",
-      "flight_time": "—"
+      "flight_time": "2:05"
     },
     {
       "date": "24 Oct 2026",
@@ -735,6 +728,13 @@
     }
   ],
   "HL8543": [
+    {
+      "date": "24 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Hong Kong(HKG)",
+      "flight": "ZE861",
+      "flight_time": "—"
+    },
     {
       "date": "24 Oct 2026",
       "from": "Yantai(YNT)",
