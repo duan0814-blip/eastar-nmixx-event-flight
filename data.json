@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25 00:07:14",
+  "last_updated": "2026-10-25 01:07:15",
   "HL8717": [
     {
       "date": "24 Oct 2026",
@@ -730,6 +730,13 @@
   "HL8543": [
     {
       "date": "24 Oct 2026",
+      "from": "Hong Kong(HKG)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE862",
+      "flight_time": "—"
+    },
+    {
+      "date": "24 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Hong Kong(HKG)",
       "flight": "ZE861",
@@ -961,6 +968,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "24 Oct 2026",
+      "from": "Chiang Mai(CNX)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE518",
+      "flight_time": "—"
+    },
     {
       "date": "24 Oct 2026",
       "from": "Seoul(ICN)",
