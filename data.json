@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24 17:07:15",
+  "last_updated": "2026-10-24 18:07:14",
   "HL8717": [
     {
       "date": "24 Oct 2026",
@@ -238,13 +238,6 @@
       "to": "Fukuoka(FUK)",
       "flight": "ZE649",
       "flight_time": "1:01"
-    },
-    {
-      "date": "17 Oct 2026",
-      "from": "Yantai(YNT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE820",
-      "flight_time": "0:58"
     }
   ],
   "HL8599": [
@@ -740,7 +733,7 @@
       "from": "Yantai(YNT)",
       "to": "Seoul(ICN)",
       "flight": "ZE820",
-      "flight_time": "—"
+      "flight_time": "1:02"
     },
     {
       "date": "24 Oct 2026",
@@ -961,6 +954,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "24 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Chiang Mai(CNX)",
+      "flight": "ZE517",
+      "flight_time": "—"
+    },
     {
       "date": "24 Oct 2026",
       "from": "Fukuoka(FUK)",
