@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24 07:07:15",
+  "last_updated": "2026-10-24 08:07:15",
   "HL8717": [
     {
       "date": "23 Oct 2026",
@@ -257,6 +257,13 @@
   "HL8599": [
     {
       "date": "23 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE601",
+      "flight_time": "—"
+    },
+    {
+      "date": "23 Oct 2026",
       "from": "Hong Kong(HKG)",
       "to": "Seoul(ICN)",
       "flight": "ZE862",
@@ -509,6 +516,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "23 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Fukuoka(FUK)",
+      "flight": "ZE645",
+      "flight_time": "—"
+    },
     {
       "date": "23 Oct 2026",
       "from": "Osaka(KIX)",
@@ -937,13 +951,6 @@
       "to": "Okinawa(OKA)",
       "flight": "ZE631",
       "flight_time": "1:45"
-    },
-    {
-      "date": "16 Oct 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:20"
     }
   ],
   "HL8544": [
@@ -952,7 +959,7 @@
       "from": "Manado(MDC)",
       "to": "Seoul(ICN)",
       "flight": "ZE536",
-      "flight_time": "—"
+      "flight_time": "5:20"
     },
     {
       "date": "23 Oct 2026",
