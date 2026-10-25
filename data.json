@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25 14:07:15",
+  "last_updated": "2026-10-25 15:07:17",
   "HL8717": [
     {
       "date": "25 Oct 2026",
@@ -241,6 +241,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "25 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Osaka(KIX)",
+      "flight": "ZE613",
+      "flight_time": "—"
+    },
     {
       "date": "25 Oct 2026",
       "from": "Osaka(KIX)",
@@ -975,6 +982,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "25 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Kagoshima(KOJ)",
+      "flight": "ZE651",
+      "flight_time": "—"
+    },
     {
       "date": "25 Oct 2026",
       "from": "Tokyo(NRT)",
