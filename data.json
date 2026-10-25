@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-25 16:07:17",
+  "last_updated": "2026-10-25 17:07:16",
   "HL8717": [
     {
       "date": "25 Oct 2026",
       "from": "Okinawa(OKA)",
       "to": "Seoul(ICN)",
       "flight": "ZE632",
-      "flight_time": "—"
+      "flight_time": "2:01"
     },
     {
       "date": "25 Oct 2026",
@@ -241,6 +241,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "25 Oct 2026",
+      "from": "Osaka(KIX)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE614",
+      "flight_time": "—"
+    },
     {
       "date": "25 Oct 2026",
       "from": "Seoul(ICN)",
@@ -502,6 +509,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "25 Oct 2026",
+      "from": "Sapporo(CTS)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE624",
+      "flight_time": "—"
+    },
     {
       "date": "25 Oct 2026",
       "from": "Seoul(ICN)",
@@ -972,13 +986,6 @@
       "to": "Chiang Mai(CNX)",
       "flight": "ZE517",
       "flight_time": "5:00"
-    },
-    {
-      "date": "18 Oct 2026",
-      "from": "Fukuoka(FUK)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE648",
-      "flight_time": "1:19"
     }
   ],
   "HL8544": [
@@ -987,7 +994,7 @@
       "from": "Seoul(ICN)",
       "to": "Kagoshima(KOJ)",
       "flight": "ZE651",
-      "flight_time": "—"
+      "flight_time": "1:13"
     },
     {
       "date": "25 Oct 2026",
