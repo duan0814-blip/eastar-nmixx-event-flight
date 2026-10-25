@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25 19:12:21",
+  "last_updated": "2026-10-25 20:07:15",
   "HL8717": [
     {
       "date": "25 Oct 2026",
@@ -241,6 +241,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "25 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Manado(MDC)",
+      "flight": "ZE535",
+      "flight_time": "—"
+    },
     {
       "date": "25 Oct 2026",
       "from": "Osaka(KIX)",
@@ -514,7 +521,7 @@
       "from": "Sapporo(CTS)",
       "to": "Seoul(ICN)",
       "flight": "ZE624",
-      "flight_time": "—"
+      "flight_time": "2:42"
     },
     {
       "date": "25 Oct 2026",
