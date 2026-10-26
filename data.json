@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26 20:07:17",
+  "last_updated": "2026-10-26 21:07:16",
   "HL8717": [
     {
       "date": "26 Oct 2026",
@@ -499,13 +499,6 @@
       "to": "Yantai(YNT)",
       "flight": "ZE817",
       "flight_time": "0:58"
-    },
-    {
-      "date": "19 Oct 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE604",
-      "flight_time": "2:12"
     }
   ],
   "HL8759": [
@@ -739,13 +732,6 @@
       "to": "Sapporo(CTS)",
       "flight": "ZE625",
       "flight_time": "2:06"
-    },
-    {
-      "date": "19 Oct 2026",
-      "from": "Fukuoka(FUK)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE650",
-      "flight_time": "1:05"
     }
   ],
   "HL8543": [
