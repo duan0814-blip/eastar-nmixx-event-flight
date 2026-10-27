@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28 07:07:18",
+  "last_updated": "2026-10-28 07:41:14",
   "HL8717": [
     {
       "date": "27 Oct 2026",
@@ -481,6 +481,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "27 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Fukuoka(FUK)",
+      "flight": "ZE645",
+      "flight_time": "—"
+    },
     {
       "date": "27 Oct 2026",
       "from": "Phu Quoc(PQC)",
@@ -966,7 +973,7 @@
       "from": "Seoul(ICN)",
       "to": "Yantai(YNT)",
       "flight": "ZE817",
-      "flight_time": "—"
+      "flight_time": "0:59"
     },
     {
       "date": "27 Oct 2026",
