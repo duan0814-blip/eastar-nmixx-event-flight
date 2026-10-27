@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-27 16:07:22",
+  "last_updated": "2026-10-27 17:07:15",
   "HL8717": [
+    {
+      "date": "27 Oct 2026",
+      "from": "Kagoshima(KOJ)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE652",
+      "flight_time": "—"
+    },
     {
       "date": "27 Oct 2026",
       "from": "Seoul(ICN)",
@@ -490,6 +497,13 @@
   "HL8759": [
     {
       "date": "27 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Phu Quoc(PQC)",
+      "flight": "ZE581",
+      "flight_time": "—"
+    },
+    {
+      "date": "27 Oct 2026",
       "from": "Sapporo(CTS)",
       "to": "Seoul(ICN)",
       "flight": "ZE622",
@@ -728,6 +742,13 @@
     }
   ],
   "HL8543": [
+    {
+      "date": "27 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Bangkok(BKK)",
+      "flight": "ZE511",
+      "flight_time": "—"
+    },
     {
       "date": "27 Oct 2026",
       "from": "Osaka(KIX)",
