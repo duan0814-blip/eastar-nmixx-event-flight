@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-28 19:07:18",
+  "last_updated": "2026-10-28 20:07:16",
   "HL8717": [
+    {
+      "date": "28 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Manado(MDC)",
+      "flight": "ZE535",
+      "flight_time": "—"
+    },
     {
       "date": "28 Oct 2026",
       "from": "Xiamen(XMN)",
@@ -716,6 +723,13 @@
   "HL8543": [
     {
       "date": "28 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Da Nang(DAD)",
+      "flight": "ZE593",
+      "flight_time": "—"
+    },
+    {
+      "date": "28 Oct 2026",
       "from": "Kagoshima(KOJ)",
       "to": "Seoul(ICN)",
       "flight": "ZE652",
@@ -940,6 +954,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "28 Oct 2026",
+      "from": "Fukuoka(FUK)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE650",
+      "flight_time": "—"
+    },
     {
       "date": "28 Oct 2026",
       "from": "Seoul(ICN)",
