@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-28 13:23:40",
+  "last_updated": "2026-10-28 14:07:15",
   "HL8717": [
+    {
+      "date": "28 Oct 2026",
+      "from": "Xiamen(XMN)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE892",
+      "flight_time": "—"
+    },
     {
       "date": "28 Oct 2026",
       "from": "Seoul(ICN)",
@@ -225,7 +232,7 @@
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE602",
-      "flight_time": "—"
+      "flight_time": "2:25"
     },
     {
       "date": "27 Oct 2026",
@@ -474,6 +481,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "28 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Sapporo(CTS)",
+      "flight": "ZE623",
+      "flight_time": "—"
+    },
     {
       "date": "28 Oct 2026",
       "from": "Fukuoka(FUK)",
