@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-29 01:07:27",
+  "last_updated": "2026-10-29 02:07:21",
   "HL8717": [
+    {
+      "date": "28 Oct 2026",
+      "from": "Manado(MDC)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE536",
+      "flight_time": "—"
+    },
     {
       "date": "28 Oct 2026",
       "from": "Seoul(ICN)",
