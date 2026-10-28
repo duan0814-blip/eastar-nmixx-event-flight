@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28 09:07:20",
+  "last_updated": "2026-10-28 10:07:18",
   "HL8717": [
     {
       "date": "28 Oct 2026",
@@ -239,7 +239,7 @@
       "from": "Seoul(ICN)",
       "to": "Tokyo(NRT)",
       "flight": "ZE601",
-      "flight_time": "—"
+      "flight_time": "1:48"
     },
     {
       "date": "27 Oct 2026",
@@ -485,13 +485,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE602",
       "flight_time": "2:21"
-    },
-    {
-      "date": "20 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Tokyo(NRT)",
-      "flight": "ZE601",
-      "flight_time": "1:49"
     }
   ],
   "HL8759": [
@@ -500,7 +493,7 @@
       "from": "Seoul(ICN)",
       "to": "Fukuoka(FUK)",
       "flight": "ZE645",
-      "flight_time": "—"
+      "flight_time": "1:01"
     },
     {
       "date": "27 Oct 2026",
@@ -739,13 +732,6 @@
       "to": "Okinawa(OKA)",
       "flight": "ZE631",
       "flight_time": "1:54"
-    },
-    {
-      "date": "20 Oct 2026",
-      "from": "Almaty(ALA)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE136",
-      "flight_time": "5:27"
     }
   ],
   "HL8543": [
@@ -972,13 +958,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE818",
       "flight_time": "0:53"
-    },
-    {
-      "date": "20 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Yantai(YNT)",
-      "flight": "ZE817",
-      "flight_time": "1:04"
     }
   ],
   "HL8544": [
@@ -987,7 +966,7 @@
       "from": "Yantai(YNT)",
       "to": "Seoul(ICN)",
       "flight": "ZE818",
-      "flight_time": "—"
+      "flight_time": "0:55"
     },
     {
       "date": "27 Oct 2026",
@@ -1198,13 +1177,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE882",
       "flight_time": "1:58"
-    },
-    {
-      "date": "20 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Taipei(TPE)",
-      "flight": "ZE881",
-      "flight_time": "2:13"
     }
   ]
 }
