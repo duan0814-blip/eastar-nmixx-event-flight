@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-10-28 08:07:17",
+  "last_updated": "2026-10-28 09:07:20",
   "HL8717": [
+    {
+      "date": "28 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Xiamen(XMN)",
+      "flight": "ZE891",
+      "flight_time": "—"
+    },
     {
       "date": "27 Oct 2026",
       "from": "Da Nang(DAD)",
@@ -747,7 +754,7 @@
       "from": "Seoul(ICN)",
       "to": "Sapporo(CTS)",
       "flight": "ZE621",
-      "flight_time": "—"
+      "flight_time": "2:02"
     },
     {
       "date": "27 Oct 2026",
@@ -975,6 +982,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "28 Oct 2026",
+      "from": "Yantai(YNT)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE818",
+      "flight_time": "—"
+    },
     {
       "date": "27 Oct 2026",
       "from": "Seoul(ICN)",
