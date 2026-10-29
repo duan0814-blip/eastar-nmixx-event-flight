@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-29 15:07:16",
+  "last_updated": "2026-10-29 17:07:18",
   "HL8717": [
     {
       "date": "29 Oct 2026",
       "from": "Okinawa(OKA)",
       "to": "Seoul(ICN)",
       "flight": "ZE632",
-      "flight_time": "—"
+      "flight_time": "1:55"
     },
     {
       "date": "29 Oct 2026",
@@ -203,13 +203,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE604",
       "flight_time": "2:16"
-    },
-    {
-      "date": "22 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Tokyo(NRT)",
-      "flight": "ZE603",
-      "flight_time": "1:50"
     }
   ],
   "HL8599": [
@@ -225,7 +218,7 @@
       "from": "Xiamen(XMN)",
       "to": "Seoul(ICN)",
       "flight": "ZE892",
-      "flight_time": "—"
+      "flight_time": "2:26"
     },
     {
       "date": "29 Oct 2026",
@@ -465,7 +458,7 @@
       "from": "Seoul(ICN)",
       "to": "Kagoshima(KOJ)",
       "flight": "ZE651",
-      "flight_time": "—"
+      "flight_time": "1:09"
     },
     {
       "date": "29 Oct 2026",
@@ -711,16 +704,16 @@
       "to": "Seoul(ICN)",
       "flight": "ZE608",
       "flight_time": "2:26"
-    },
-    {
-      "date": "22 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Tokyo(NRT)",
-      "flight": "ZE607",
-      "flight_time": "1:47"
     }
   ],
   "HL8543": [
+    {
+      "date": "29 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Bangkok(BKK)",
+      "flight": "ZE511",
+      "flight_time": "—"
+    },
     {
       "date": "29 Oct 2026",
       "from": "Tokushima(TKS)",
@@ -944,22 +937,22 @@
       "to": "Phu Quoc(PQC)",
       "flight": "ZE581",
       "flight_time": "5:17"
-    },
-    {
-      "date": "22 Oct 2026",
-      "from": "Okinawa(OKA)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE632",
-      "flight_time": "2:02"
     }
   ],
   "HL8544": [
     {
       "date": "29 Oct 2026",
+      "from": "Osaka(KIX)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE614",
+      "flight_time": "—"
+    },
+    {
+      "date": "29 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Osaka(KIX)",
       "flight": "ZE613",
-      "flight_time": "—"
+      "flight_time": "1:22"
     },
     {
       "date": "29 Oct 2026",
@@ -1177,13 +1170,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE614",
       "flight_time": "1:33"
-    },
-    {
-      "date": "22 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Osaka(KIX)",
-      "flight": "ZE613",
-      "flight_time": "1:15"
     }
   ]
 }
