@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-31 13:07:15",
+  "last_updated": "2026-10-31 14:53:02",
   "HL8717": [
     {
       "date": "31 Oct 2026",
       "from": "Tokushima(TKS)",
       "to": "Seoul(ICN)",
       "flight": "ZE672",
-      "flight_time": "—"
+      "flight_time": "1:33"
     },
     {
       "date": "31 Oct 2026",
@@ -210,13 +210,6 @@
       "to": "Almaty(ALA)",
       "flight": "ZE135",
       "flight_time": "6:56"
-    },
-    {
-      "date": "24 Oct 2026",
-      "from": "Hanamaki(HNA)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE6272",
-      "flight_time": "2:14"
     }
   ],
   "HL8599": [
@@ -225,7 +218,7 @@
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE602",
-      "flight_time": "—"
+      "flight_time": "2:16"
     },
     {
       "date": "30 Oct 2026",
@@ -451,7 +444,7 @@
       "from": "Osaka(KIX)",
       "to": "Seoul(ICN)",
       "flight": "ZE616",
-      "flight_time": "—"
+      "flight_time": "1:30"
     },
     {
       "date": "31 Oct 2026",
@@ -702,6 +695,13 @@
   "HL8543": [
     {
       "date": "31 Oct 2026",
+      "from": "Xiamen(XMN)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE892",
+      "flight_time": "—"
+    },
+    {
+      "date": "31 Oct 2026",
       "from": "Seoul(ICN)",
       "to": "Xiamen(XMN)",
       "flight": "ZE891",
@@ -909,16 +909,16 @@
       "to": "Seoul(ICN)",
       "flight": "ZE820",
       "flight_time": "1:02"
-    },
-    {
-      "date": "24 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Yantai(YNT)",
-      "flight": "ZE819",
-      "flight_time": "0:57"
     }
   ],
   "HL8544": [
+    {
+      "date": "31 Oct 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE603",
+      "flight_time": "—"
+    },
     {
       "date": "31 Oct 2026",
       "from": "Tokyo(NRT)",
