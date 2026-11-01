@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-01 20:07:16",
+  "last_updated": "2026-11-01 23:57:22",
   "HL8717": [
+    {
+      "date": "01 Nov 2026",
+      "from": "Busan(PUS)",
+      "to": "Taipei(TPE)",
+      "flight": "ZE983",
+      "flight_time": "2:00"
+    },
     {
       "date": "01 Nov 2026",
       "from": "Sapporo(CTS)",
@@ -217,13 +224,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE862",
       "flight_time": "3:06"
-    },
-    {
-      "date": "25 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Hong Kong(HKG)",
-      "flight": "ZE861",
-      "flight_time": "3:02"
     }
   ],
   "HL8599": [
@@ -232,7 +232,7 @@
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE608",
-      "flight_time": "—"
+      "flight_time": "2:23"
     },
     {
       "date": "01 Nov 2026",
@@ -439,6 +439,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "01 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Nha Trang(CXR)",
+      "flight": "ZE561",
+      "flight_time": "—"
+    },
     {
       "date": "01 Nov 2026",
       "from": "Osaka(KIX)",
@@ -676,13 +683,6 @@
       "to": "Da Nang(DAD)",
       "flight": "ZE593",
       "flight_time": "4:06"
-    },
-    {
-      "date": "25 Oct 2026",
-      "from": "Sapporo(CTS)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE624",
-      "flight_time": "2:42"
     }
   ],
   "HL8543": [
@@ -902,22 +902,22 @@
       "to": "Sapporo(CTS)",
       "flight": "ZE621",
       "flight_time": "2:04"
-    },
-    {
-      "date": "25 Oct 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE604",
-      "flight_time": "2:14"
     }
   ],
   "HL8544": [
     {
       "date": "01 Nov 2026",
+      "from": "Bangkok(BKK)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE512",
+      "flight_time": "—"
+    },
+    {
+      "date": "01 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Bangkok(BKK)",
       "flight": "ZE511",
-      "flight_time": "—"
+      "flight_time": "5:17"
     },
     {
       "date": "01 Nov 2026",
