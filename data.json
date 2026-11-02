@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-02 13:07:19",
+  "last_updated": "2026-11-02 15:07:16",
   "HL8717": [
+    {
+      "date": "02 Nov 2026",
+      "from": "Kumamoto(KMJ)",
+      "to": "Busan(PUS)",
+      "flight": "ZE968",
+      "flight_time": "0:46"
+    },
     {
       "date": "02 Nov 2026",
       "from": "Busan(PUS)",
@@ -239,7 +246,7 @@
       "from": "Sapporo(CTS)",
       "to": "Seoul(ICN)",
       "flight": "ZE626",
-      "flight_time": "—"
+      "flight_time": "2:49"
     },
     {
       "date": "02 Nov 2026",
@@ -439,6 +446,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "02 Nov 2026",
+      "from": "Okinawa(OKA)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE632",
+      "flight_time": "—"
+    },
     {
       "date": "02 Nov 2026",
       "from": "Seoul(ICN)",
@@ -669,16 +683,16 @@
       "to": "Phu Quoc(PQC)",
       "flight": "ZE581",
       "flight_time": "5:32"
-    },
-    {
-      "date": "26 Oct 2026",
-      "from": "Osaka(KIX)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE616",
-      "flight_time": "1:27"
     }
   ],
   "HL8543": [
+    {
+      "date": "02 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Osaka(KIX)",
+      "flight": "ZE613",
+      "flight_time": "—"
+    },
     {
       "date": "01 Nov 2026",
       "from": "Da Nang(DAD)",
@@ -888,13 +902,6 @@
       "to": "Bangkok(BKK)",
       "flight": "ZE511",
       "flight_time": "5:15"
-    },
-    {
-      "date": "26 Oct 2026",
-      "from": "Sapporo(CTS)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE622",
-      "flight_time": "2:44"
     }
   ],
   "HL8544": [
@@ -903,7 +910,7 @@
       "from": "Taipei(TPE)",
       "to": "Seoul(ICN)",
       "flight": "ZE882",
-      "flight_time": "—"
+      "flight_time": "2:02"
     },
     {
       "date": "01 Nov 2026",
