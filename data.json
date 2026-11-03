@@ -1,12 +1,19 @@
 {
-  "last_updated": "2026-11-03 17:07:23",
+  "last_updated": "2026-11-03 19:07:18",
   "HL8717": [
+    {
+      "date": "03 Nov 2026",
+      "from": "Busan(PUS)",
+      "to": "Phu Quoc(PQC)",
+      "flight": "ZE981",
+      "flight_time": "—"
+    },
     {
       "date": "03 Nov 2026",
       "from": "Osaka(KIX)",
       "to": "Busan(PUS)",
       "flight": "ZE916",
-      "flight_time": "—"
+      "flight_time": "1:16"
     },
     {
       "date": "03 Nov 2026",
@@ -238,13 +245,6 @@
       "to": "Da Nang(DAD)",
       "flight": "ZE593",
       "flight_time": "4:21"
-    },
-    {
-      "date": "27 Oct 2026",
-      "from": "Kagoshima(KOJ)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE652",
-      "flight_time": "1:16"
     }
   ],
   "HL8599": [
@@ -443,13 +443,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE650",
       "flight_time": "1:03"
-    },
-    {
-      "date": "27 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE649",
-      "flight_time": "1:01"
     }
   ],
   "HL8759": [
@@ -931,7 +924,7 @@
       "from": "Kagoshima(KOJ)",
       "to": "Seoul(ICN)",
       "flight": "ZE652",
-      "flight_time": "—"
+      "flight_time": "1:29"
     },
     {
       "date": "03 Nov 2026",
