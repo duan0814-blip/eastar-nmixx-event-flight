@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-03 06:07:41",
+  "last_updated": "2026-11-03 08:07:24",
   "HL8717": [
+    {
+      "date": "02 Nov 2026",
+      "from": "Busan(PUS)",
+      "to": "Osaka(KIX)",
+      "flight": "ZE913",
+      "flight_time": "—"
+    },
     {
       "date": "02 Nov 2026",
       "from": "Chiang Mai(CNX)",
@@ -243,6 +250,13 @@
   "HL8599": [
     {
       "date": "02 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE601",
+      "flight_time": "—"
+    },
+    {
+      "date": "02 Nov 2026",
       "from": "Fukuoka(FUK)",
       "to": "Seoul(ICN)",
       "flight": "ZE650",
@@ -436,13 +450,6 @@
       "to": "Fukuoka(FUK)",
       "flight": "ZE647",
       "flight_time": "1:06"
-    },
-    {
-      "date": "26 Oct 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:07"
     }
   ],
   "HL8759": [
@@ -451,7 +458,7 @@
       "from": "Manado(MDC)",
       "to": "Seoul(ICN)",
       "flight": "ZE536",
-      "flight_time": "—"
+      "flight_time": "5:25"
     },
     {
       "date": "02 Nov 2026",
@@ -691,7 +698,7 @@
       "from": "Nha Trang(CXR)",
       "to": "Seoul(ICN)",
       "flight": "ZE562",
-      "flight_time": "—"
+      "flight_time": "4:42"
     },
     {
       "date": "02 Nov 2026",
@@ -1135,13 +1142,6 @@
       "to": "Tokushima(TKS)",
       "flight": "ZE671",
       "flight_time": "1:21"
-    },
-    {
-      "date": "26 Oct 2026",
-      "from": "Nha Trang(CXR)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE562",
-      "flight_time": "4:27"
     }
   ]
 }
