@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03 12:07:17",
+  "last_updated": "2026-11-03 13:07:17",
   "HL8717": [
     {
       "date": "03 Nov 2026",
@@ -238,13 +238,6 @@
       "to": "Kagoshima(KOJ)",
       "flight": "ZE651",
       "flight_time": "1:08"
-    },
-    {
-      "date": "27 Oct 2026",
-      "from": "Osaka(KIX)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE612",
-      "flight_time": "1:35"
     }
   ],
   "HL8599": [
@@ -450,13 +443,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE648",
       "flight_time": "1:05"
-    },
-    {
-      "date": "27 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE647",
-      "flight_time": "1:06"
     }
   ],
   "HL8759": [
@@ -712,7 +698,7 @@
       "from": "Seoul(ICN)",
       "to": "Okinawa(OKA)",
       "flight": "ZE631",
-      "flight_time": "—"
+      "flight_time": "1:51"
     },
     {
       "date": "02 Nov 2026",
@@ -938,7 +924,7 @@
       "from": "Osaka(KIX)",
       "to": "Seoul(ICN)",
       "flight": "ZE612",
-      "flight_time": "—"
+      "flight_time": "1:39"
     },
     {
       "date": "03 Nov 2026",
