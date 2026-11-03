@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-03 11:07:18",
+  "last_updated": "2026-11-03 12:07:17",
   "HL8717": [
     {
       "date": "03 Nov 2026",
       "from": "Osaka(KIX)",
       "to": "Busan(PUS)",
       "flight": "ZE914",
-      "flight_time": "—"
+      "flight_time": "1:07"
     },
     {
       "date": "02 Nov 2026",
@@ -249,6 +249,13 @@
   ],
   "HL8599": [
     {
+      "date": "03 Nov 2026",
+      "from": "Tokyo(NRT)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE602",
+      "flight_time": "—"
+    },
+    {
       "date": "02 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Tokyo(NRT)",
@@ -453,6 +460,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "03 Nov 2026",
+      "from": "Osaka(KIX)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE616",
+      "flight_time": "—"
+    },
     {
       "date": "03 Nov 2026",
       "from": "Seoul(ICN)",
