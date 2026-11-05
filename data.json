@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06 03:07:33",
+  "last_updated": "2026-11-06 04:07:18",
   "HL8717": [
     {
       "date": "05 Nov 2026",
@@ -471,13 +471,6 @@
       "to": "Sapporo(CTS)",
       "flight": "ZE625",
       "flight_time": "2:09"
-    },
-    {
-      "date": "29 Oct 2026",
-      "from": "Hong Kong(HKG)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE862",
-      "flight_time": "3:18"
     }
   ],
   "HL8759": [
