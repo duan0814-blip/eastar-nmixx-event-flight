@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-06 05:07:18",
+  "last_updated": "2026-11-06 06:07:17",
   "HL8717": [
     {
       "date": "05 Nov 2026",
       "from": "Taipei(TPE)",
       "to": "Busan(PUS)",
       "flight": "ZE988",
-      "flight_time": "—"
+      "flight_time": "2:12"
     },
     {
       "date": "05 Nov 2026",
@@ -267,7 +267,7 @@
       "from": "Chiang Mai(CNX)",
       "to": "Seoul(ICN)",
       "flight": "ZE518",
-      "flight_time": "—"
+      "flight_time": "4:37"
     },
     {
       "date": "05 Nov 2026",
