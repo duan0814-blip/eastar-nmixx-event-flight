@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06 04:07:18",
+  "last_updated": "2026-11-06 05:07:18",
   "HL8717": [
     {
       "date": "05 Nov 2026",
@@ -930,13 +930,6 @@
       "to": "Osaka(KIX)",
       "flight": "ZE611",
       "flight_time": "1:30"
-    },
-    {
-      "date": "29 Oct 2026",
-      "from": "Bangkok(BKK)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE512",
-      "flight_time": "5:14"
     }
   ],
   "HL8544": [
@@ -945,7 +938,7 @@
       "from": "Phu Quoc(PQC)",
       "to": "Seoul(ICN)",
       "flight": "ZE582",
-      "flight_time": "—"
+      "flight_time": "5:00"
     },
     {
       "date": "05 Nov 2026",
