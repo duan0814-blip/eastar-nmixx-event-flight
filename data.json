@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-06 02:07:27",
+  "last_updated": "2026-11-06 03:07:33",
   "HL8717": [
+    {
+      "date": "05 Nov 2026",
+      "from": "Taipei(TPE)",
+      "to": "Busan(PUS)",
+      "flight": "ZE988",
+      "flight_time": "—"
+    },
     {
       "date": "05 Nov 2026",
       "from": "Busan(PUS)",
@@ -707,6 +714,13 @@
     }
   ],
   "HL8543": [
+    {
+      "date": "05 Nov 2026",
+      "from": "Da Nang(DAD)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE594",
+      "flight_time": "—"
+    },
     {
       "date": "05 Nov 2026",
       "from": "Seoul(ICN)",
