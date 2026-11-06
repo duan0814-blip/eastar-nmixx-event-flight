@@ -1,12 +1,19 @@
 {
-  "last_updated": "2026-11-06 22:55:48",
+  "last_updated": "2026-11-07 03:07:16",
   "HL8717": [
+    {
+      "date": "06 Nov 2026",
+      "from": "Taipei(TPE)",
+      "to": "Busan(PUS)",
+      "flight": "ZE984",
+      "flight_time": "—"
+    },
     {
       "date": "06 Nov 2026",
       "from": "Busan(PUS)",
       "to": "Taipei(TPE)",
       "flight": "ZE983",
-      "flight_time": "—"
+      "flight_time": "2:06"
     },
     {
       "date": "06 Nov 2026",
@@ -483,10 +490,17 @@
   "HL8759": [
     {
       "date": "06 Nov 2026",
+      "from": "Manado(MDC)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE536",
+      "flight_time": "—"
+    },
+    {
+      "date": "06 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Manado(MDC)",
       "flight": "ZE535",
-      "flight_time": "—"
+      "flight_time": "5:16"
     },
     {
       "date": "06 Nov 2026",
@@ -718,13 +732,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE562",
       "flight_time": "4:42"
-    },
-    {
-      "date": "30 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Nha Trang(CXR)",
-      "flight": "ZE561",
-      "flight_time": "4:35"
     }
   ],
   "HL8543": [
