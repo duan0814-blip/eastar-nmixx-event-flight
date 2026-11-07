@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-07 18:07:20",
+  "last_updated": "2026-11-07 19:07:18",
   "HL8717": [
+    {
+      "date": "07 Nov 2026",
+      "from": "Cheongju(CJJ)",
+      "to": "Jeju(CJU)",
+      "flight": "ZE715",
+      "flight_time": "—"
+    },
     {
       "date": "07 Nov 2026",
       "from": "Jeju(CJU)",
@@ -733,7 +740,7 @@
       "from": "Osaka(KIX)",
       "to": "Seoul(ICN)",
       "flight": "ZE614",
-      "flight_time": "—"
+      "flight_time": "1:26"
     },
     {
       "date": "07 Nov 2026",
@@ -958,13 +965,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE650",
       "flight_time": "1:14"
-    },
-    {
-      "date": "31 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE649",
-      "flight_time": "0:54"
     }
   ],
   "HL8544": [
@@ -973,7 +973,7 @@
       "from": "Kagoshima(KOJ)",
       "to": "Seoul(ICN)",
       "flight": "ZE652",
-      "flight_time": "—"
+      "flight_time": "1:16"
     },
     {
       "date": "07 Nov 2026",
