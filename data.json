@@ -1,12 +1,19 @@
 {
-  "last_updated": "2026-11-07 19:07:18",
+  "last_updated": "2026-11-07 21:52:58",
   "HL8717": [
+    {
+      "date": "07 Nov 2026",
+      "from": "Jeju(CJU)",
+      "to": "Seoul(GMP)",
+      "flight": "ZE224",
+      "flight_time": "0:47"
+    },
     {
       "date": "07 Nov 2026",
       "from": "Cheongju(CJJ)",
       "to": "Jeju(CJU)",
       "flight": "ZE715",
-      "flight_time": "—"
+      "flight_time": "0:54"
     },
     {
       "date": "07 Nov 2026",
@@ -273,16 +280,16 @@
       "to": "Seoul(ICN)",
       "flight": "ZE512",
       "flight_time": "5:13"
-    },
-    {
-      "date": "31 Oct 2026",
-      "from": "Seoul(ICN)",
-      "to": "Bangkok(BKK)",
-      "flight": "ZE511",
-      "flight_time": "5:25"
     }
   ],
   "HL8599": [
+    {
+      "date": "07 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Manado(MDC)",
+      "flight": "ZE535",
+      "flight_time": "—"
+    },
     {
       "date": "07 Nov 2026",
       "from": "Okinawa(OKA)",
@@ -478,13 +485,6 @@
       "to": "Taipei(TPE)",
       "flight": "ZE881",
       "flight_time": "2:11"
-    },
-    {
-      "date": "31 Oct 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE608",
-      "flight_time": "2:21"
     }
   ],
   "HL8759": [
@@ -737,6 +737,13 @@
   "HL8543": [
     {
       "date": "07 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Nha Trang(CXR)",
+      "flight": "ZE561",
+      "flight_time": "—"
+    },
+    {
+      "date": "07 Nov 2026",
       "from": "Osaka(KIX)",
       "to": "Seoul(ICN)",
       "flight": "ZE614",
@@ -958,16 +965,16 @@
       "to": "Sapporo(CTS)",
       "flight": "ZE621",
       "flight_time": "2:07"
-    },
-    {
-      "date": "31 Oct 2026",
-      "from": "Fukuoka(FUK)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE650",
-      "flight_time": "1:14"
     }
   ],
   "HL8544": [
+    {
+      "date": "07 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Da Nang(DAD)",
+      "flight": "ZE593",
+      "flight_time": "—"
+    },
     {
       "date": "07 Nov 2026",
       "from": "Kagoshima(KOJ)",
@@ -1191,13 +1198,6 @@
       "to": "Tokyo(NRT)",
       "flight": "ZE601",
       "flight_time": "1:49"
-    },
-    {
-      "date": "31 Oct 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE604",
-      "flight_time": "2:16"
     }
   ]
 }
