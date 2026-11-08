@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08 15:07:17",
+  "last_updated": "2026-11-08 18:07:16",
   "HL8717": [
     {
       "date": "07 Nov 2026",
@@ -252,13 +252,6 @@
       "to": "Busan(PUS)",
       "flight": "ZE952",
       "flight_time": "2:36"
-    },
-    {
-      "date": "01 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Sapporo(CTS)",
-      "flight": "ZE623",
-      "flight_time": "2:11"
     }
   ],
   "HL8599": [
@@ -267,7 +260,7 @@
       "from": "Xiamen(XMN)",
       "to": "Seoul(ICN)",
       "flight": "ZE892",
-      "flight_time": "—"
+      "flight_time": "2:26"
     },
     {
       "date": "08 Nov 2026",
@@ -464,13 +457,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE608",
       "flight_time": "2:23"
-    },
-    {
-      "date": "01 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Tokyo(NRT)",
-      "flight": "ZE607",
-      "flight_time": "1:50"
     }
   ],
   "HL8759": [
@@ -479,7 +465,7 @@
       "from": "Seoul(ICN)",
       "to": "Tokyo(NRT)",
       "flight": "ZE607",
-      "flight_time": "—"
+      "flight_time": "1:56"
     },
     {
       "date": "08 Nov 2026",
@@ -711,13 +697,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE614",
       "flight_time": "1:48"
-    },
-    {
-      "date": "01 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Osaka(KIX)",
-      "flight": "ZE613",
-      "flight_time": "1:25"
     }
   ],
   "HL8543": [
@@ -726,7 +705,7 @@
       "from": "Okinawa(OKA)",
       "to": "Seoul(ICN)",
       "flight": "ZE632",
-      "flight_time": "—"
+      "flight_time": "1:50"
     },
     {
       "date": "08 Nov 2026",
@@ -951,16 +930,16 @@
       "to": "Seoul(ICN)",
       "flight": "ZE652",
       "flight_time": "1:20"
-    },
-    {
-      "date": "01 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Kagoshima(KOJ)",
-      "flight": "ZE651",
-      "flight_time": "1:07"
     }
   ],
   "HL8544": [
+    {
+      "date": "08 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Phu Quoc(PQC)",
+      "flight": "ZE581",
+      "flight_time": "—"
+    },
     {
       "date": "08 Nov 2026",
       "from": "Osaka(KIX)",
