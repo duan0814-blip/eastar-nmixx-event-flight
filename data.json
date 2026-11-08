@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08 21:07:16",
+  "last_updated": "2026-11-08 23:07:17",
   "HL8717": [
     {
       "date": "07 Nov 2026",
@@ -260,7 +260,7 @@
       "from": "Seoul(ICN)",
       "to": "Hong Kong(HKG)",
       "flight": "ZE861",
-      "flight_time": "—"
+      "flight_time": "3:30"
     },
     {
       "date": "08 Nov 2026",
@@ -457,13 +457,6 @@
       "to": "Sapporo(CTS)",
       "flight": "ZE625",
       "flight_time": "2:02"
-    },
-    {
-      "date": "01 Nov 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE608",
-      "flight_time": "2:23"
     }
   ],
   "HL8759": [
@@ -472,7 +465,7 @@
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE608",
-      "flight_time": "—"
+      "flight_time": "2:16"
     },
     {
       "date": "08 Nov 2026",
@@ -945,7 +938,7 @@
       "from": "Seoul(ICN)",
       "to": "Phu Quoc(PQC)",
       "flight": "ZE581",
-      "flight_time": "—"
+      "flight_time": "5:29"
     },
     {
       "date": "08 Nov 2026",
@@ -1177,13 +1170,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE512",
       "flight_time": "5:03"
-    },
-    {
-      "date": "01 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Bangkok(BKK)",
-      "flight": "ZE511",
-      "flight_time": "5:17"
     }
   ]
 }
