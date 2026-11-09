@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09 08:07:20",
+  "last_updated": "2026-11-09 12:07:20",
   "HL8717": [
     {
       "date": "07 Nov 2026",
@@ -210,23 +210,16 @@
       "to": "Busan(PUS)",
       "flight": "ZE968",
       "flight_time": "0:46"
-    },
-    {
-      "date": "02 Nov 2026",
-      "from": "Busan(PUS)",
-      "to": "Kumamoto(KMJ)",
-      "flight": "ZE967",
-      "flight_time": "0:41"
-    },
-    {
-      "date": "02 Nov 2026",
-      "from": "Seoul(GMP)",
-      "to": "Busan(PUS)",
-      "flight": "ZE293",
-      "flight_time": "0:43"
     }
   ],
   "HL8599": [
+    {
+      "date": "09 Nov 2026",
+      "from": "Yantai(YNT)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE818",
+      "flight_time": "0:57"
+    },
     {
       "date": "08 Nov 2026",
       "from": "Seoul(ICN)",
@@ -436,22 +429,22 @@
       "to": "Seoul(ICN)",
       "flight": "ZE626",
       "flight_time": "2:49"
-    },
-    {
-      "date": "02 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Sapporo(CTS)",
-      "flight": "ZE625",
-      "flight_time": "2:02"
     }
   ],
   "HL8759": [
+    {
+      "date": "09 Nov 2026",
+      "from": "Taipei(TPE)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE882",
+      "flight_time": "—"
+    },
     {
       "date": "08 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Taipei(TPE)",
       "flight": "ZE881",
-      "flight_time": "—"
+      "flight_time": "2:17"
     },
     {
       "date": "08 Nov 2026",
@@ -681,10 +674,17 @@
   "HL8543": [
     {
       "date": "09 Nov 2026",
+      "from": "Osaka(KIX)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE612",
+      "flight_time": "—"
+    },
+    {
+      "date": "09 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Osaka(KIX)",
       "flight": "ZE611",
-      "flight_time": "—"
+      "flight_time": "1:19"
     },
     {
       "date": "08 Nov 2026",
@@ -913,11 +913,18 @@
   ],
   "HL8544": [
     {
+      "date": "09 Nov 2026",
+      "from": "Sapporo(CTS)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE622",
+      "flight_time": "—"
+    },
+    {
       "date": "08 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Sapporo(CTS)",
       "flight": "ZE621",
-      "flight_time": "—"
+      "flight_time": "2:00"
     },
     {
       "date": "08 Nov 2026",
@@ -1149,13 +1156,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE882",
       "flight_time": "2:02"
-    },
-    {
-      "date": "01 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Taipei(TPE)",
-      "flight": "ZE881",
-      "flight_time": "2:17"
     }
   ]
 }
