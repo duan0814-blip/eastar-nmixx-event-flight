@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-11 04:07:18",
+  "last_updated": "2026-11-11 07:08:37",
   "HL8717": [
+    {
+      "date": "10 Nov 2026",
+      "from": "Seoul(GMP)",
+      "to": "Jeju(CJU)",
+      "flight": "ZE201",
+      "flight_time": "0:56"
+    },
     {
       "date": "07 Nov 2026",
       "from": "Jeju(CJU)",
@@ -157,6 +164,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "10 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Sapporo(CTS)",
+      "flight": "ZE621",
+      "flight_time": "—"
+    },
     {
       "date": "10 Nov 2026",
       "from": "Sapporo(CTS)",
@@ -366,13 +380,6 @@
       "to": "Xiamen(XMN)",
       "flight": "ZE891",
       "flight_time": "2:53"
-    },
-    {
-      "date": "03 Nov 2026",
-      "from": "Bangkok(BKK)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE512",
-      "flight_time": "5:11"
     }
   ],
   "HL8759": [
@@ -381,7 +388,7 @@
       "from": "Bangkok(BKK)",
       "to": "Seoul(ICN)",
       "flight": "ZE512",
-      "flight_time": "—"
+      "flight_time": "4:56"
     },
     {
       "date": "10 Nov 2026",
@@ -599,13 +606,6 @@
       "to": "Yantai(YNT)",
       "flight": "ZE817",
       "flight_time": "0:59"
-    },
-    {
-      "date": "03 Nov 2026",
-      "from": "Phu Quoc(PQC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE582",
-      "flight_time": "5:06"
     }
   ],
   "HL8543": [
@@ -1079,13 +1079,6 @@
       "to": "Osaka(KIX)",
       "flight": "ZE611",
       "flight_time": "1:21"
-    },
-    {
-      "date": "03 Nov 2026",
-      "from": "Da Nang(DAD)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE594",
-      "flight_time": "4:02"
     }
   ]
 }
