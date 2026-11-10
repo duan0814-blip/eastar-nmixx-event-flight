@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10 10:07:19",
+  "last_updated": "2026-11-10 12:07:17",
   "HL8717": [
     {
       "date": "07 Nov 2026",
@@ -175,13 +175,6 @@
       "to": "Osaka(KIX)",
       "flight": "ZE915",
       "flight_time": "0:59"
-    },
-    {
-      "date": "03 Nov 2026",
-      "from": "Osaka(KIX)",
-      "to": "Busan(PUS)",
-      "flight": "ZE914",
-      "flight_time": "1:07"
     }
   ],
   "HL8599": [
@@ -405,6 +398,13 @@
   ],
   "HL8759": [
     {
+      "date": "10 Nov 2026",
+      "from": "Tokyo(NRT)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE602",
+      "flight_time": "—"
+    },
+    {
       "date": "09 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Tokyo(NRT)",
@@ -627,16 +627,16 @@
       "to": "Seoul(ICN)",
       "flight": "ZE616",
       "flight_time": "1:35"
-    },
-    {
-      "date": "03 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Osaka(KIX)",
-      "flight": "ZE615",
-      "flight_time": "1:14"
     }
   ],
   "HL8543": [
+    {
+      "date": "10 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Okinawa(OKA)",
+      "flight": "ZE631",
+      "flight_time": "—"
+    },
     {
       "date": "09 Nov 2026",
       "from": "Manado(MDC)",
@@ -878,6 +878,13 @@
   ],
   "HL8544": [
     {
+      "date": "10 Nov 2026",
+      "from": "Sapporo(CTS)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE622",
+      "flight_time": "—"
+    },
+    {
       "date": "09 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Sapporo(CTS)",
@@ -1114,13 +1121,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE612",
       "flight_time": "1:39"
-    },
-    {
-      "date": "03 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Osaka(KIX)",
-      "flight": "ZE611",
-      "flight_time": "1:14"
     }
   ]
 }
