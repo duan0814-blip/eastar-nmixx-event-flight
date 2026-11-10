@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10 07:07:19",
+  "last_updated": "2026-11-10 09:58:02",
   "HL8717": [
     {
       "date": "07 Nov 2026",
@@ -182,13 +182,6 @@
       "to": "Busan(PUS)",
       "flight": "ZE914",
       "flight_time": "1:07"
-    },
-    {
-      "date": "02 Nov 2026",
-      "from": "Busan(PUS)",
-      "to": "Osaka(KIX)",
-      "flight": "ZE913",
-      "flight_time": "0:57"
     }
   ],
   "HL8599": [
@@ -197,7 +190,7 @@
       "from": "Nha Trang(CXR)",
       "to": "Seoul(ICN)",
       "flight": "ZE562",
-      "flight_time": "—"
+      "flight_time": "4:27"
     },
     {
       "date": "09 Nov 2026",
@@ -408,16 +401,16 @@
       "to": "Seoul(ICN)",
       "flight": "ZE602",
       "flight_time": "2:30"
-    },
-    {
-      "date": "02 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Tokyo(NRT)",
-      "flight": "ZE601",
-      "flight_time": "1:47"
     }
   ],
   "HL8759": [
+    {
+      "date": "09 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE601",
+      "flight_time": "—"
+    },
     {
       "date": "09 Nov 2026",
       "from": "Phu Quoc(PQC)",
@@ -641,13 +634,6 @@
       "to": "Osaka(KIX)",
       "flight": "ZE615",
       "flight_time": "1:14"
-    },
-    {
-      "date": "02 Nov 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:25"
     }
   ],
   "HL8543": [
@@ -656,7 +642,7 @@
       "from": "Manado(MDC)",
       "to": "Seoul(ICN)",
       "flight": "ZE536",
-      "flight_time": "—"
+      "flight_time": "5:33"
     },
     {
       "date": "09 Nov 2026",
@@ -888,13 +874,6 @@
       "to": "Okinawa(OKA)",
       "flight": "ZE631",
       "flight_time": "1:51"
-    },
-    {
-      "date": "02 Nov 2026",
-      "from": "Nha Trang(CXR)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE562",
-      "flight_time": "4:42"
     }
   ],
   "HL8544": [
@@ -903,7 +882,7 @@
       "from": "Seoul(ICN)",
       "to": "Sapporo(CTS)",
       "flight": "ZE621",
-      "flight_time": "—"
+      "flight_time": "2:07"
     },
     {
       "date": "09 Nov 2026",
