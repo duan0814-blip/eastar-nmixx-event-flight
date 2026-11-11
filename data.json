@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12 03:07:18",
+  "last_updated": "2026-11-12 04:07:17",
   "HL8717": [
     {
       "date": "11 Nov 2026",
@@ -171,6 +171,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "11 Nov 2026",
+      "from": "Da Nang(DAD)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE594",
+      "flight_time": "—"
+    },
     {
       "date": "11 Nov 2026",
       "from": "Seoul(ICN)",
@@ -387,13 +394,6 @@
       "to": "Fukuoka(FUK)",
       "flight": "ZE645",
       "flight_time": "1:07"
-    },
-    {
-      "date": "04 Nov 2026",
-      "from": "Hong Kong(HKG)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE862",
-      "flight_time": "3:09"
     }
   ],
   "HL8759": [
@@ -875,7 +875,7 @@
       "from": "Hong Kong(HKG)",
       "to": "Seoul(ICN)",
       "flight": "ZE862",
-      "flight_time": "—"
+      "flight_time": "3:05"
     },
     {
       "date": "11 Nov 2026",
