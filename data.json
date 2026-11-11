@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12 04:07:17",
+  "last_updated": "2026-11-12 05:13:50",
   "HL8717": [
     {
       "date": "11 Nov 2026",
@@ -161,13 +161,6 @@
       "to": "Okinawa(OKA)",
       "flight": "ZE963",
       "flight_time": "1:36"
-    },
-    {
-      "date": "04 Nov 2026",
-      "from": "Chiang Mai(CNX)",
-      "to": "Busan(PUS)",
-      "flight": "ZE918",
-      "flight_time": "4:53"
     }
   ],
   "HL8599": [
@@ -620,13 +613,6 @@
       "to": "Osaka(KIX)",
       "flight": "ZE611",
       "flight_time": "1:20"
-    },
-    {
-      "date": "04 Nov 2026",
-      "from": "Chiang Mai(CNX)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE518",
-      "flight_time": "4:45"
     }
   ],
   "HL8543": [
