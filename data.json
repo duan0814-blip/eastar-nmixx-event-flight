@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-11 07:08:37",
+  "last_updated": "2026-11-11 09:07:15",
   "HL8717": [
+    {
+      "date": "11 Nov 2026",
+      "from": "Jeju(CJU)",
+      "to": "Seoul(GMP)",
+      "flight": "ZE206",
+      "flight_time": "—"
+    },
     {
       "date": "10 Nov 2026",
       "from": "Seoul(GMP)",
@@ -154,13 +161,6 @@
       "to": "Huangshan City(TXN)",
       "flight": "ZE9125",
       "flight_time": "2:08"
-    },
-    {
-      "date": "03 Nov 2026",
-      "from": "Phu Quoc(PQC)",
-      "to": "Busan(PUS)",
-      "flight": "ZE982",
-      "flight_time": "4:52"
     }
   ],
   "HL8599": [
@@ -384,6 +384,13 @@
   ],
   "HL8759": [
     {
+      "date": "11 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Osaka(KIX)",
+      "flight": "ZE611",
+      "flight_time": "—"
+    },
+    {
       "date": "10 Nov 2026",
       "from": "Bangkok(BKK)",
       "to": "Seoul(ICN)",
@@ -599,22 +606,22 @@
       "to": "Seoul(ICN)",
       "flight": "ZE818",
       "flight_time": "0:56"
-    },
-    {
-      "date": "03 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Yantai(YNT)",
-      "flight": "ZE817",
-      "flight_time": "0:59"
     }
   ],
   "HL8543": [
+    {
+      "date": "11 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Osaka(KIX)",
+      "flight": "ZE615",
+      "flight_time": "—"
+    },
     {
       "date": "10 Nov 2026",
       "from": "Manado(MDC)",
       "to": "Seoul(ICN)",
       "flight": "ZE536",
-      "flight_time": "—"
+      "flight_time": "5:23"
     },
     {
       "date": "10 Nov 2026",
@@ -846,16 +853,16 @@
       "to": "Okinawa(OKA)",
       "flight": "ZE631",
       "flight_time": "1:53"
-    },
-    {
-      "date": "03 Nov 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:21"
     }
   ],
   "HL8544": [
+    {
+      "date": "11 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Xiamen(XMN)",
+      "flight": "ZE891",
+      "flight_time": "—"
+    },
     {
       "date": "10 Nov 2026",
       "from": "Chiang Mai(CNX)",
