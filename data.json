@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13 05:07:17",
+  "last_updated": "2026-11-13 06:07:19",
   "HL8717": [
     {
       "date": "12 Nov 2026",
@@ -182,13 +182,6 @@
       "to": "Daegu(TAE)",
       "flight": "(ESR308F)",
       "flight_time": "0:22"
-    },
-    {
-      "date": "05 Nov 2026",
-      "from": "Taipei(TPE)",
-      "to": "Busan(PUS)",
-      "flight": "ZE988",
-      "flight_time": "2:12"
     }
   ],
   "HL8599": [
