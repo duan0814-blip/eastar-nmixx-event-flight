@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-13 02:47:51",
+  "last_updated": "2026-11-13 05:07:17",
   "HL8717": [
+    {
+      "date": "12 Nov 2026",
+      "from": "Taipei(TPE)",
+      "to": "Jeju(CJU)",
+      "flight": "ZE886",
+      "flight_time": "1:39"
+    },
     {
       "date": "12 Nov 2026",
       "from": "Jeju(CJU)",
@@ -408,13 +415,6 @@
       "to": "Sapporo(CTS)",
       "flight": "ZE621",
       "flight_time": "2:02"
-    },
-    {
-      "date": "05 Nov 2026",
-      "from": "Chiang Mai(CNX)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE518",
-      "flight_time": "4:37"
     }
   ],
   "HL8759": [
@@ -423,7 +423,7 @@
       "from": "Hong Kong(HKG)",
       "to": "Seoul(ICN)",
       "flight": "ZE862",
-      "flight_time": "—"
+      "flight_time": "3:05"
     },
     {
       "date": "12 Nov 2026",
@@ -644,6 +644,13 @@
     }
   ],
   "HL8543": [
+    {
+      "date": "12 Nov 2026",
+      "from": "Da Nang(DAD)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE594",
+      "flight_time": "—"
+    },
     {
       "date": "12 Nov 2026",
       "from": "Seoul(ICN)",
@@ -889,7 +896,7 @@
       "from": "Chiang Mai(CNX)",
       "to": "Seoul(ICN)",
       "flight": "ZE518",
-      "flight_time": "—"
+      "flight_time": "4:28"
     },
     {
       "date": "12 Nov 2026",
@@ -1093,13 +1100,6 @@
       "to": "Taipei(TPE)",
       "flight": "ZE881",
       "flight_time": "2:12"
-    },
-    {
-      "date": "05 Nov 2026",
-      "from": "Phu Quoc(PQC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE582",
-      "flight_time": "5:00"
     }
   ]
 }
