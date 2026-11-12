@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-12 09:07:21",
+  "last_updated": "2026-11-12 10:49:04",
   "HL8717": [
     {
       "date": "12 Nov 2026",
       "from": "Jeju(CJU)",
       "to": "Seoul(GMP)",
       "flight": "ZE272",
-      "flight_time": "—"
+      "flight_time": "0:56"
     },
     {
       "date": "11 Nov 2026",
@@ -168,13 +168,6 @@
       "to": "Busan(PUS)",
       "flight": "ZE964",
       "flight_time": "1:37"
-    },
-    {
-      "date": "04 Nov 2026",
-      "from": "Busan(PUS)",
-      "to": "Okinawa(OKA)",
-      "flight": "ZE963",
-      "flight_time": "1:36"
     }
   ],
   "HL8599": [
@@ -183,7 +176,7 @@
       "from": "Seoul(ICN)",
       "to": "Osaka(KIX)",
       "flight": "ZE615",
-      "flight_time": "—"
+      "flight_time": "1:15"
     },
     {
       "date": "11 Nov 2026",
@@ -401,16 +394,16 @@
       "to": "Seoul(ICN)",
       "flight": "ZE646",
       "flight_time": "0:59"
-    },
-    {
-      "date": "04 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Fukuoka(FUK)",
-      "flight": "ZE645",
-      "flight_time": "1:07"
     }
   ],
   "HL8759": [
+    {
+      "date": "12 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Okinawa(OKA)",
+      "flight": "ZE631",
+      "flight_time": "—"
+    },
     {
       "date": "11 Nov 2026",
       "from": "Nha Trang(CXR)",
@@ -627,22 +620,22 @@
       "to": "Seoul(ICN)",
       "flight": "ZE612",
       "flight_time": "1:23"
-    },
-    {
-      "date": "05 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Osaka(KIX)",
-      "flight": "ZE611",
-      "flight_time": "1:20"
     }
   ],
   "HL8543": [
+    {
+      "date": "12 Nov 2026",
+      "from": "Sapporo(CTS)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE622",
+      "flight_time": "—"
+    },
     {
       "date": "11 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Sapporo(CTS)",
       "flight": "ZE621",
-      "flight_time": "—"
+      "flight_time": "2:21"
     },
     {
       "date": "11 Nov 2026",
@@ -1086,13 +1079,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE616",
       "flight_time": "1:31"
-    },
-    {
-      "date": "05 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Osaka(KIX)",
-      "flight": "ZE615",
-      "flight_time": "1:24"
     }
   ]
 }
