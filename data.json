@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-12 13:07:17",
+  "last_updated": "2026-11-12 14:07:17",
   "HL8717": [
+    {
+      "date": "12 Nov 2026",
+      "from": "Jeju(CJU)",
+      "to": "Seoul(GMP)",
+      "flight": "ZE210",
+      "flight_time": "—"
+    },
     {
       "date": "12 Nov 2026",
       "from": "Seoul(GMP)",
@@ -176,7 +183,7 @@
       "from": "Osaka(KIX)",
       "to": "Seoul(ICN)",
       "flight": "ZE616",
-      "flight_time": "—"
+      "flight_time": "1:33"
     },
     {
       "date": "12 Nov 2026",
@@ -397,6 +404,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "12 Nov 2026",
+      "from": "Okinawa(OKA)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE632",
+      "flight_time": "—"
+    },
     {
       "date": "12 Nov 2026",
       "from": "Seoul(ICN)",
@@ -621,7 +635,7 @@
       "from": "Sapporo(CTS)",
       "to": "Seoul(ICN)",
       "flight": "ZE622",
-      "flight_time": "—"
+      "flight_time": "2:39"
     },
     {
       "date": "11 Nov 2026",
@@ -1065,13 +1079,6 @@
       "to": "Phu Quoc(PQC)",
       "flight": "ZE581",
       "flight_time": "5:30"
-    },
-    {
-      "date": "05 Nov 2026",
-      "from": "Osaka(KIX)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE616",
-      "flight_time": "1:31"
     }
   ]
 }
