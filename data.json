@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-13 22:07:17",
+  "last_updated": "2026-11-13 23:07:18",
   "HL8717": [
     {
       "date": "13 Nov 2026",
       "from": "Busan(PUS)",
       "to": "Chiang Mai(CNX)",
       "flight": "ZE917",
-      "flight_time": "—"
+      "flight_time": "5:53"
     },
     {
       "date": "13 Nov 2026",
@@ -642,7 +642,7 @@
       "from": "Seoul(ICN)",
       "to": "Chiang Mai(CNX)",
       "flight": "ZE517",
-      "flight_time": "—"
+      "flight_time": "5:48"
     },
     {
       "date": "13 Nov 2026",
