@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-14 02:07:18",
+  "last_updated": "2026-11-14 06:07:16",
   "HL8717": [
     {
       "date": "13 Nov 2026",
       "from": "Chiang Mai(CNX)",
       "to": "Busan(PUS)",
       "flight": "ZE918",
-      "flight_time": "—"
+      "flight_time": "4:48"
     },
     {
       "date": "13 Nov 2026",
@@ -182,16 +182,16 @@
       "to": "Seoul(GMP)",
       "flight": "ZE292",
       "flight_time": "0:43"
-    },
-    {
-      "date": "06 Nov 2026",
-      "from": "Taipei(TPE)",
-      "to": "Busan(PUS)",
-      "flight": "ZE984",
-      "flight_time": "2:09"
     }
   ],
   "HL8599": [
+    {
+      "date": "13 Nov 2026",
+      "from": "Nha Trang(CXR)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE562",
+      "flight_time": "—"
+    },
     {
       "date": "13 Nov 2026",
       "from": "Seoul(ICN)",
@@ -635,7 +635,7 @@
       "from": "Chiang Mai(CNX)",
       "to": "Seoul(ICN)",
       "flight": "ZE518",
-      "flight_time": "—"
+      "flight_time": "4:23"
     },
     {
       "date": "13 Nov 2026",
