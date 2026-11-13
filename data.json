@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-13 23:16:40",
+  "last_updated": "2026-11-14 00:07:29",
   "HL8717": [
+    {
+      "date": "13 Nov 2026",
+      "from": "Chiang Mai(CNX)",
+      "to": "Busan(PUS)",
+      "flight": "ZE918",
+      "flight_time": "—"
+    },
     {
       "date": "13 Nov 2026",
       "from": "Busan(PUS)",
@@ -637,6 +644,13 @@
     }
   ],
   "HL8543": [
+    {
+      "date": "13 Nov 2026",
+      "from": "Chiang Mai(CNX)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE518",
+      "flight_time": "—"
+    },
     {
       "date": "13 Nov 2026",
       "from": "Seoul(ICN)",
