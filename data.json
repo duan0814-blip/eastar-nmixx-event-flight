@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-15 06:07:15",
+  "last_updated": "2026-11-15 07:07:16",
   "HL8717": [
+    {
+      "date": "14 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE605",
+      "flight_time": "—"
+    },
     {
       "date": "14 Nov 2026",
       "from": "Shanghai(PVG)",
@@ -425,6 +432,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "14 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Taipei(TPE)",
+      "flight": "ZE881",
+      "flight_time": "—"
+    },
     {
       "date": "14 Nov 2026",
       "from": "Hong Kong(HKG)",
@@ -889,7 +903,7 @@
       "from": "Da Nang(DAD)",
       "to": "Seoul(ICN)",
       "flight": "ZE594",
-      "flight_time": "—"
+      "flight_time": "3:41"
     },
     {
       "date": "14 Nov 2026",
