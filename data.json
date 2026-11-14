@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-14 07:07:17",
+  "last_updated": "2026-11-14 08:07:16",
   "HL8717": [
+    {
+      "date": "13 Nov 2026",
+      "from": "Busan(PUS)",
+      "to": "Okinawa(OKA)",
+      "flight": "ZE963",
+      "flight_time": "—"
+    },
     {
       "date": "13 Nov 2026",
       "from": "Chiang Mai(CNX)",
@@ -175,13 +182,6 @@
       "to": "Jeju(CJU)",
       "flight": "ZE275",
       "flight_time": "0:55"
-    },
-    {
-      "date": "06 Nov 2026",
-      "from": "Busan(PUS)",
-      "to": "Seoul(GMP)",
-      "flight": "ZE292",
-      "flight_time": "0:43"
     }
   ],
   "HL8599": [
@@ -190,7 +190,7 @@
       "from": "Nha Trang(CXR)",
       "to": "Seoul(ICN)",
       "flight": "ZE562",
-      "flight_time": "—"
+      "flight_time": "4:27"
     },
     {
       "date": "13 Nov 2026",
@@ -620,16 +620,16 @@
       "to": "Osaka(KIX)",
       "flight": "ZE615",
       "flight_time": "1:16"
-    },
-    {
-      "date": "06 Nov 2026",
-      "from": "Manado(MDC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE536",
-      "flight_time": "5:21"
     }
   ],
   "HL8543": [
+    {
+      "date": "14 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Osaka(KIX)",
+      "flight": "ZE611",
+      "flight_time": "—"
+    },
     {
       "date": "13 Nov 2026",
       "from": "Chiang Mai(CNX)",
