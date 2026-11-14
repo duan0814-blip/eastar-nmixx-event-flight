@@ -1,12 +1,19 @@
 {
-  "last_updated": "2026-11-15 00:07:27",
+  "last_updated": "2026-11-15 03:07:17",
   "HL8717": [
+    {
+      "date": "14 Nov 2026",
+      "from": "Shanghai(PVG)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE872",
+      "flight_time": "—"
+    },
     {
       "date": "14 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Shanghai(PVG)",
       "flight": "ZE871",
-      "flight_time": "—"
+      "flight_time": "1:44"
     },
     {
       "date": "14 Nov 2026",
@@ -415,13 +422,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE536",
       "flight_time": "5:27"
-    },
-    {
-      "date": "07 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Manado(MDC)",
-      "flight": "ZE535",
-      "flight_time": "5:12"
     }
   ],
   "HL8759": [
@@ -646,10 +646,17 @@
   "HL8543": [
     {
       "date": "14 Nov 2026",
+      "from": "Nha Trang(CXR)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE562",
+      "flight_time": "—"
+    },
+    {
+      "date": "14 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Nha Trang(CXR)",
       "flight": "ZE561",
-      "flight_time": "—"
+      "flight_time": "5:05"
     },
     {
       "date": "14 Nov 2026",
@@ -881,22 +888,22 @@
       "to": "Seoul(ICN)",
       "flight": "ZE562",
       "flight_time": "4:32"
-    },
-    {
-      "date": "07 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Nha Trang(CXR)",
-      "flight": "ZE561",
-      "flight_time": "4:33"
     }
   ],
   "HL8544": [
     {
       "date": "14 Nov 2026",
+      "from": "Da Nang(DAD)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE594",
+      "flight_time": "—"
+    },
+    {
+      "date": "14 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Da Nang(DAD)",
       "flight": "ZE593",
-      "flight_time": "—"
+      "flight_time": "4:56"
     },
     {
       "date": "14 Nov 2026",
@@ -1100,13 +1107,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE594",
       "flight_time": "3:58"
-    },
-    {
-      "date": "07 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Da Nang(DAD)",
-      "flight": "ZE593",
-      "flight_time": "4:19"
     }
   ]
 }
