@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14 18:04:58",
+  "last_updated": "2026-11-14 19:07:16",
   "HL8717": [
     {
       "date": "14 Nov 2026",
@@ -427,6 +427,13 @@
   "HL8759": [
     {
       "date": "14 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Hong Kong(HKG)",
+      "flight": "ZE861",
+      "flight_time": "—"
+    },
+    {
+      "date": "14 Nov 2026",
       "from": "Xiamen(XMN)",
       "to": "Seoul(ICN)",
       "flight": "ZE892",
@@ -642,7 +649,7 @@
       "from": "Osaka(KIX)",
       "to": "Seoul(ICN)",
       "flight": "ZE614",
-      "flight_time": "—"
+      "flight_time": "1:33"
     },
     {
       "date": "14 Nov 2026",
@@ -874,13 +881,6 @@
       "to": "Nha Trang(CXR)",
       "flight": "ZE561",
       "flight_time": "4:33"
-    },
-    {
-      "date": "07 Nov 2026",
-      "from": "Osaka(KIX)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE614",
-      "flight_time": "1:26"
     }
   ],
   "HL8544": [
@@ -889,7 +889,7 @@
       "from": "Kagoshima(KOJ)",
       "to": "Seoul(ICN)",
       "flight": "ZE652",
-      "flight_time": "—"
+      "flight_time": "1:14"
     },
     {
       "date": "14 Nov 2026",
@@ -1093,13 +1093,6 @@
       "to": "Da Nang(DAD)",
       "flight": "ZE593",
       "flight_time": "4:19"
-    },
-    {
-      "date": "07 Nov 2026",
-      "from": "Kagoshima(KOJ)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE652",
-      "flight_time": "1:16"
     }
   ]
 }
