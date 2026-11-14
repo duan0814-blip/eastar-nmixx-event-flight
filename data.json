@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14 08:07:16",
+  "last_updated": "2026-11-14 09:07:26",
   "HL8717": [
     {
       "date": "13 Nov 2026",
@@ -185,6 +185,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "14 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokushima(TKS)",
+      "flight": "ZE671",
+      "flight_time": "—"
+    },
     {
       "date": "13 Nov 2026",
       "from": "Nha Trang(CXR)",
@@ -411,6 +418,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "14 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Xiamen(XMN)",
+      "flight": "ZE891",
+      "flight_time": "—"
+    },
     {
       "date": "13 Nov 2026",
       "from": "Sapporo(CTS)",
@@ -875,7 +889,7 @@
       "from": "Seoul(ICN)",
       "to": "Sapporo(CTS)",
       "flight": "ZE621",
-      "flight_time": "—"
+      "flight_time": "2:10"
     },
     {
       "date": "13 Nov 2026",
@@ -1079,13 +1093,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE622",
       "flight_time": "2:54"
-    },
-    {
-      "date": "06 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Sapporo(CTS)",
-      "flight": "ZE621",
-      "flight_time": "2:05"
     }
   ]
 }
