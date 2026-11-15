@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15 13:07:17",
+  "last_updated": "2026-11-15 14:07:18",
   "HL8717": [
     {
       "date": "15 Nov 2026",
@@ -653,6 +653,13 @@
   "HL8543": [
     {
       "date": "15 Nov 2026",
+      "from": "Okinawa(OKA)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE632",
+      "flight_time": "—"
+    },
+    {
+      "date": "15 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Okinawa(OKA)",
       "flight": "ZE631",
@@ -893,6 +900,13 @@
   "HL8544": [
     {
       "date": "15 Nov 2026",
+      "from": "Xiamen(XMN)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE892",
+      "flight_time": "—"
+    },
+    {
+      "date": "15 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Xiamen(XMN)",
       "flight": "ZE891",
@@ -1093,13 +1107,6 @@
       "to": "Phu Quoc(PQC)",
       "flight": "ZE581",
       "flight_time": "5:29"
-    },
-    {
-      "date": "08 Nov 2026",
-      "from": "Osaka(KIX)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE616",
-      "flight_time": "1:28"
     }
   ]
 }
