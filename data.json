@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-15 20:07:26",
+  "last_updated": "2026-11-15 23:07:18",
   "HL8717": [
     {
       "date": "15 Nov 2026",
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE604",
-      "flight_time": "—"
+      "flight_time": "2:09"
     },
     {
       "date": "15 Nov 2026",
@@ -222,10 +222,17 @@
   "HL8599": [
     {
       "date": "15 Nov 2026",
+      "from": "Chiang Mai(CNX)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE518",
+      "flight_time": "—"
+    },
+    {
+      "date": "15 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Chiang Mai(CNX)",
       "flight": "ZE517",
-      "flight_time": "—"
+      "flight_time": "5:17"
     },
     {
       "date": "15 Nov 2026",
@@ -443,13 +450,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE862",
       "flight_time": "3:05"
-    },
-    {
-      "date": "08 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Hong Kong(HKG)",
-      "flight": "ZE861",
-      "flight_time": "3:30"
     }
   ],
   "HL8759": [
@@ -458,7 +458,7 @@
       "from": "Seoul(ICN)",
       "to": "Phu Quoc(PQC)",
       "flight": "ZE581",
-      "flight_time": "—"
+      "flight_time": "5:24"
     },
     {
       "date": "15 Nov 2026",
@@ -655,13 +655,6 @@
       "to": "Taipei(TPE)",
       "flight": "ZE881",
       "flight_time": "2:17"
-    },
-    {
-      "date": "08 Nov 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE608",
-      "flight_time": "2:16"
     }
   ],
   "HL8543": [
@@ -917,7 +910,7 @@
       "from": "Seoul(ICN)",
       "to": "Hong Kong(HKG)",
       "flight": "ZE861",
-      "flight_time": "—"
+      "flight_time": "3:31"
     },
     {
       "date": "15 Nov 2026",
@@ -1121,13 +1114,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE582",
       "flight_time": "4:51"
-    },
-    {
-      "date": "08 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Phu Quoc(PQC)",
-      "flight": "ZE581",
-      "flight_time": "5:29"
     }
   ]
 }
