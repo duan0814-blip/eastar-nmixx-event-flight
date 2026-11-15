@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15 23:07:18",
+  "last_updated": "2026-11-16 05:07:18",
   "HL8717": [
     {
       "date": "15 Nov 2026",
@@ -225,7 +225,7 @@
       "from": "Chiang Mai(CNX)",
       "to": "Seoul(ICN)",
       "flight": "ZE518",
-      "flight_time": "—"
+      "flight_time": "4:32"
     },
     {
       "date": "15 Nov 2026",
@@ -443,16 +443,16 @@
       "to": "Yantai(YNT)",
       "flight": "ZE817",
       "flight_time": "1:01"
-    },
-    {
-      "date": "08 Nov 2026",
-      "from": "Hong Kong(HKG)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE862",
-      "flight_time": "3:05"
     }
   ],
   "HL8759": [
+    {
+      "date": "15 Nov 2026",
+      "from": "Phu Quoc(PQC)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE582",
+      "flight_time": "4:45"
+    },
     {
       "date": "15 Nov 2026",
       "from": "Seoul(ICN)",
@@ -660,10 +660,17 @@
   "HL8543": [
     {
       "date": "15 Nov 2026",
+      "from": "Manado(MDC)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE536",
+      "flight_time": "—"
+    },
+    {
+      "date": "15 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Manado(MDC)",
       "flight": "ZE535",
-      "flight_time": "—"
+      "flight_time": "5:11"
     },
     {
       "date": "15 Nov 2026",
@@ -895,16 +902,16 @@
       "to": "Seoul(ICN)",
       "flight": "ZE518",
       "flight_time": "4:32"
-    },
-    {
-      "date": "08 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Chiang Mai(CNX)",
-      "flight": "ZE517",
-      "flight_time": "5:17"
     }
   ],
   "HL8544": [
+    {
+      "date": "15 Nov 2026",
+      "from": "Hong Kong(HKG)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE862",
+      "flight_time": "2:56"
+    },
     {
       "date": "15 Nov 2026",
       "from": "Seoul(ICN)",
@@ -1107,13 +1114,6 @@
       "to": "Sapporo(CTS)",
       "flight": "ZE621",
       "flight_time": "2:00"
-    },
-    {
-      "date": "08 Nov 2026",
-      "from": "Phu Quoc(PQC)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE582",
-      "flight_time": "4:51"
     }
   ]
 }
