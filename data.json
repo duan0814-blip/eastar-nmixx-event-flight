@@ -1,12 +1,19 @@
 {
-  "last_updated": "2026-11-17 00:07:20",
+  "last_updated": "2026-11-17 04:16:11",
   "HL8717": [
+    {
+      "date": "16 Nov 2026",
+      "from": "Nha Trang(CXR)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE562",
+      "flight_time": "—"
+    },
     {
       "date": "16 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Nha Trang(CXR)",
       "flight": "ZE561",
-      "flight_time": "—"
+      "flight_time": "4:41"
     },
     {
       "date": "16 Nov 2026",
@@ -471,22 +478,22 @@
       "to": "Seoul(ICN)",
       "flight": "ZE562",
       "flight_time": "4:27"
-    },
-    {
-      "date": "09 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Nha Trang(CXR)",
-      "flight": "ZE561",
-      "flight_time": "4:32"
     }
   ],
   "HL8759": [
     {
       "date": "16 Nov 2026",
+      "from": "Da Nang(DAD)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE594",
+      "flight_time": "—"
+    },
+    {
+      "date": "16 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Da Nang(DAD)",
       "flight": "ZE593",
-      "flight_time": "—"
+      "flight_time": "4:26"
     },
     {
       "date": "16 Nov 2026",
@@ -937,13 +944,6 @@
       "to": "Seoul(ICN)",
       "flight": "ZE536",
       "flight_time": "5:33"
-    },
-    {
-      "date": "09 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Manado(MDC)",
-      "flight": "ZE535",
-      "flight_time": "5:05"
     }
   ],
   "HL8544": [
