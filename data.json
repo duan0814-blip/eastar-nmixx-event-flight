@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-17 13:07:20",
+  "last_updated": "2026-11-17 16:07:19",
   "HL8717": [
+    {
+      "date": "17 Nov 2026",
+      "from": "Okinawa(OKA)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE632",
+      "flight_time": "—"
+    },
     {
       "date": "17 Nov 2026",
       "from": "Seoul(ICN)",
@@ -271,10 +278,17 @@
   "HL8599": [
     {
       "date": "17 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE607",
+      "flight_time": "—"
+    },
+    {
+      "date": "17 Nov 2026",
       "from": "Sapporo(CTS)",
       "to": "Seoul(ICN)",
       "flight": "ZE622",
-      "flight_time": "—"
+      "flight_time": "2:40"
     },
     {
       "date": "16 Nov 2026",
@@ -485,16 +499,16 @@
       "to": "Seoul(ICN)",
       "flight": "ZE624",
       "flight_time": "2:35"
-    },
-    {
-      "date": "10 Nov 2026",
-      "from": "Seoul(ICN)",
-      "to": "Sapporo(CTS)",
-      "flight": "ZE623",
-      "flight_time": "2:11"
     }
   ],
   "HL8759": [
+    {
+      "date": "17 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Kagoshima(KOJ)",
+      "flight": "ZE651",
+      "flight_time": "—"
+    },
     {
       "date": "17 Nov 2026",
       "from": "Osaka(KIX)",
@@ -718,13 +732,6 @@
       "to": "Bangkok(BKK)",
       "flight": "ZE511",
       "flight_time": "5:29"
-    },
-    {
-      "date": "10 Nov 2026",
-      "from": "Tokyo(NRT)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE602",
-      "flight_time": "2:05"
     }
   ],
   "HL8543": [
@@ -733,7 +740,7 @@
       "from": "Sapporo(CTS)",
       "to": "Seoul(ICN)",
       "flight": "ZE626",
-      "flight_time": "—"
+      "flight_time": "2:29"
     },
     {
       "date": "17 Nov 2026",
@@ -963,6 +970,13 @@
   "HL8544": [
     {
       "date": "17 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE603",
+      "flight_time": "—"
+    },
+    {
+      "date": "17 Nov 2026",
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE606",
@@ -1170,13 +1184,6 @@
       "to": "Chiang Mai(CNX)",
       "flight": "ZE517",
       "flight_time": "5:27"
-    },
-    {
-      "date": "10 Nov 2026",
-      "from": "Sapporo(CTS)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE622",
-      "flight_time": "2:40"
     }
   ]
 }
