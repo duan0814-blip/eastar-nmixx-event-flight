@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-19 05:07:30",
+  "last_updated": "2026-11-19 07:07:19",
   "HL8717": [
+    {
+      "date": "18 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE605",
+      "flight_time": "—"
+    },
     {
       "date": "18 Nov 2026",
       "from": "Phu Quoc(PQC)",
@@ -502,6 +509,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "18 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Yantai(YNT)",
+      "flight": "ZE817",
+      "flight_time": "—"
+    },
     {
       "date": "18 Nov 2026",
       "from": "Hong Kong(HKG)",
