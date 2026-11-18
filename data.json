@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18 18:07:17",
+  "last_updated": "2026-11-18 20:55:14",
   "HL8717": [
     {
       "date": "18 Nov 2026",
@@ -266,20 +266,6 @@
       "to": "Jeju(CJU)",
       "flight": "ZE205",
       "flight_time": "0:48"
-    },
-    {
-      "date": "11 Nov 2026",
-      "from": "Jeju(CJU)",
-      "to": "Seoul(GMP)",
-      "flight": "ZE222",
-      "flight_time": "1:08"
-    },
-    {
-      "date": "11 Nov 2026",
-      "from": "Seoul(GMP)",
-      "to": "Jeju(CJU)",
-      "flight": "ZE221",
-      "flight_time": "0:50"
     }
   ],
   "HL8599": [
@@ -499,16 +485,23 @@
       "to": "Da Nang(DAD)",
       "flight": "ZE593",
       "flight_time": "4:19"
-    },
-    {
-      "date": "11 Nov 2026",
-      "from": "Kagoshima(KOJ)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE652",
-      "flight_time": "1:20"
     }
   ],
   "HL8759": [
+    {
+      "date": "18 Nov 2026",
+      "from": "Hong Kong(HKG)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE862",
+      "flight_time": "—"
+    },
+    {
+      "date": "18 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Hong Kong(HKG)",
+      "flight": "ZE861",
+      "flight_time": "—"
+    },
     {
       "date": "18 Nov 2026",
       "from": "Xiamen(XMN)",
@@ -732,22 +725,22 @@
       "to": "Nha Trang(CXR)",
       "flight": "ZE561",
       "flight_time": "4:56"
-    },
-    {
-      "date": "11 Nov 2026",
-      "from": "Osaka(KIX)",
-      "to": "Seoul(ICN)",
-      "flight": "ZE614",
-      "flight_time": "1:30"
     }
   ],
   "HL8543": [
     {
       "date": "18 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Da Nang(DAD)",
+      "flight": "ZE593",
+      "flight_time": "—"
+    },
+    {
+      "date": "18 Nov 2026",
       "from": "Kagoshima(KOJ)",
       "to": "Seoul(ICN)",
       "flight": "ZE652",
-      "flight_time": "—"
+      "flight_time": "1:20"
     },
     {
       "date": "18 Nov 2026",
@@ -994,7 +987,7 @@
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE604",
-      "flight_time": "—"
+      "flight_time": "2:21"
     },
     {
       "date": "18 Nov 2026",
