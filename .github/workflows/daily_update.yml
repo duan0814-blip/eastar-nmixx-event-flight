@@ -28,7 +28,7 @@ jobs:
           python-version: '3.12'
 
       - name: 安裝依賴套件
-        run: pip install cloudscraper beautifulsoup4
+        run: pip install curl_cffi
 
       - name: 執行資料抓取
         run: python fetch_data.py
