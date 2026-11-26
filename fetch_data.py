@@ -67,6 +67,36 @@ def fetch_aircraft_data(aircraft_id):
     return flights
 
 
+def row_quality(r):
+    """資料完整度：起降地、飛行時間都有值的分數較高；亂碼（�）視為無值"""
+    def good(v):
+        return bool(v) and v != "—" and "�" not in v
+    return good(r.get("from")) + good(r.get("to")) + good(r.get("flight_time"))
+
+
+def merge_history(new_rows, old_rows):
+    """FR24 只提供最近約 7 天，所以把新抓到的跟舊資料合併，累積完整歷史。
+    以（日期, 航班）去重，同一筆保留較完整的版本（同分以新抓的為準），依日期新到舊排序"""
+    merged = {}
+    order = []
+    for r in list(new_rows) + list(old_rows):
+        k = (r["date"], r["flight"])
+        if k not in merged:
+            merged[k] = r
+            order.append(k)
+        elif row_quality(r) > row_quality(merged[k]):
+            merged[k] = r
+    rows = [merged[k] for k in order]
+
+    def day(r):
+        try:
+            return datetime.datetime.strptime(r["date"], "%d %b %Y")
+        except ValueError:
+            return datetime.datetime.min
+    rows.sort(key=day, reverse=True)  # 穩定排序，同一天內維持原本順序
+    return rows
+
+
 def load_previous():
     if os.path.exists("data.json"):
         try:
@@ -93,12 +123,14 @@ def main():
         except Exception as e:
             print(f"  {aircraft} 抓取失敗：{e}")
             flights = []
+        old = previous.get(aircraft, [])
         if flights:
             ok += 1
             print(f"  {aircraft} 取得 {len(flights)} 筆")
+            flights = merge_history(flights, old)
         else:
             # 抓不到（被擋/逾時）時保留上一次的資料，避免網頁變空白
-            flights = previous.get(aircraft, [])
+            flights = old
             print(f"  {aircraft} 沿用舊資料（{len(flights)} 筆）")
         result[aircraft] = flights
 
