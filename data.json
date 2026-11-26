@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27 01:07:17",
+  "last_updated": "2026-11-27 02:07:16",
   "HL8717": [
     {
       "date": "26 Nov 2026",
@@ -1958,6 +1958,13 @@
   "HL8599": [
     {
       "date": "26 Nov 2026",
+      "from": "Shanghai(PVG)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE872",
+      "flight_time": "—"
+    },
+    {
+      "date": "26 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Shanghai(PVG)",
       "flight": "ZE871",
@@ -3909,7 +3916,7 @@
       "from": "Seoul(ICN)",
       "to": "Nha Trang(CXR)",
       "flight": "ZE561",
-      "flight_time": "—"
+      "flight_time": "5:30"
     },
     {
       "date": "26 Nov 2026",
