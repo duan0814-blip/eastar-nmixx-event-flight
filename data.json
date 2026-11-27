@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27 11:07:16",
+  "last_updated": "2026-11-27 12:07:17",
   "HL8717": [
     {
       "date": "27 Nov 2026",
@@ -5903,6 +5903,13 @@
   "HL8543": [
     {
       "date": "27 Nov 2026",
+      "from": "Seoul(GMP)",
+      "to": "Jeju(CJU)",
+      "flight": "ZE211",
+      "flight_time": "—"
+    },
+    {
+      "date": "27 Nov 2026",
       "from": "Jeju(CJU)",
       "to": "Seoul(GMP)",
       "flight": "ZE260",
@@ -7828,6 +7835,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "27 Nov 2026",
+      "from": "Sapporo(CTS)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE626",
+      "flight_time": "—"
+    },
     {
       "date": "27 Nov 2026",
       "from": "Seoul(ICN)",
