@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28 03:07:16",
+  "last_updated": "2026-11-28 04:07:18",
   "HL8717": [
     {
       "date": "27 Nov 2026",
@@ -3972,7 +3972,7 @@
       "from": "Shanghai(PVG)",
       "to": "Seoul(ICN)",
       "flight": "ZE872",
-      "flight_time": "—"
+      "flight_time": "1:23"
     },
     {
       "date": "27 Nov 2026",
@@ -7917,7 +7917,7 @@
       "from": "Chiang Mai(CNX)",
       "to": "Seoul(ICN)",
       "flight": "ZE518",
-      "flight_time": "—"
+      "flight_time": "4:08"
     },
     {
       "date": "27 Nov 2026",
