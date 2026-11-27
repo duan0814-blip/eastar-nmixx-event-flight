@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27 22:07:18",
+  "last_updated": "2026-11-27 23:07:17",
   "HL8717": [
     {
       "date": "27 Nov 2026",
@@ -1989,7 +1989,7 @@
       "from": "Seoul(ICN)",
       "to": "Bangkok(BKK)",
       "flight": "ZE511",
-      "flight_time": "—"
+      "flight_time": "6:16"
     },
     {
       "date": "27 Nov 2026",
@@ -3960,6 +3960,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "27 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Shanghai(PVG)",
+      "flight": "ZE871",
+      "flight_time": "—"
+    },
     {
       "date": "27 Nov 2026",
       "from": "Sapporo(CTS)",
@@ -7896,7 +7903,7 @@
       "from": "Seoul(ICN)",
       "to": "Chiang Mai(CNX)",
       "flight": "ZE517",
-      "flight_time": "—"
+      "flight_time": "6:00"
     },
     {
       "date": "27 Nov 2026",
