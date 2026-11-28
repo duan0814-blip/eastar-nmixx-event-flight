@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-11-28 17:07:18",
+  "last_updated": "2026-11-28 18:07:17",
   "HL8717": [
+    {
+      "date": "28 Nov 2026",
+      "from": "Kagoshima(KOJ)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE652",
+      "flight_time": "—"
+    },
     {
       "date": "28 Nov 2026",
       "from": "Seoul(ICN)",
@@ -4009,6 +4016,13 @@
     }
   ],
   "HL8759": [
+    {
+      "date": "28 Nov 2026",
+      "from": "Tokyo(NRT)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE604",
+      "flight_time": "—"
+    },
     {
       "date": "28 Nov 2026",
       "from": "Seoul(ICN)",
