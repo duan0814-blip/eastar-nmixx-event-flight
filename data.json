@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-28 16:07:17",
+  "last_updated": "2026-11-28 17:07:18",
   "HL8717": [
     {
       "date": "28 Nov 2026",
       "from": "Seoul(ICN)",
       "to": "Kagoshima(KOJ)",
       "flight": "ZE651",
-      "flight_time": "—"
+      "flight_time": "1:14"
     },
     {
       "date": "28 Nov 2026",
@@ -2005,6 +2005,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "28 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Chiang Mai(CNX)",
+      "flight": "ZE517",
+      "flight_time": "—"
+    },
     {
       "date": "28 Nov 2026",
       "from": "Sapporo(CTS)",
@@ -4007,7 +4014,7 @@
       "from": "Seoul(ICN)",
       "to": "Tokyo(NRT)",
       "flight": "ZE603",
-      "flight_time": "—"
+      "flight_time": "1:44"
     },
     {
       "date": "28 Nov 2026",
@@ -6013,6 +6020,13 @@
     }
   ],
   "HL8543": [
+    {
+      "date": "28 Nov 2026",
+      "from": "Busan(PUS)",
+      "to": "Chiang Mai(CNX)",
+      "flight": "ZE917",
+      "flight_time": "—"
+    },
     {
       "date": "28 Nov 2026",
       "from": "Kumamoto(KMJ)",
