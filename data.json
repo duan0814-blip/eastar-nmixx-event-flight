@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28 11:07:18",
+  "last_updated": "2026-11-28 12:07:14",
   "HL8717": [
     {
       "date": "28 Nov 2026",
@@ -1998,6 +1998,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "28 Nov 2026",
+      "from": "Sapporo(CTS)",
+      "to": "Seoul(ICN)",
+      "flight": "ZE626",
+      "flight_time": "—"
+    },
     {
       "date": "28 Nov 2026",
       "from": "Seoul(ICN)",
@@ -5997,7 +6004,7 @@
       "from": "Busan(PUS)",
       "to": "Kumamoto(KMJ)",
       "flight": "ZE967",
-      "flight_time": "—"
+      "flight_time": "0:39"
     },
     {
       "date": "28 Nov 2026",
