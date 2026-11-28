@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-28 13:07:16",
+  "last_updated": "2026-11-28 14:07:23",
   "HL8717": [
     {
       "date": "28 Nov 2026",
       "from": "Sapporo(CTS)",
       "to": "Seoul(ICN)",
       "flight": "ZE622",
-      "flight_time": "—"
+      "flight_time": "3:06"
     },
     {
       "date": "27 Nov 2026",
@@ -4000,7 +4000,7 @@
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE606",
-      "flight_time": "—"
+      "flight_time": "2:27"
     },
     {
       "date": "27 Nov 2026",
@@ -6001,6 +6001,13 @@
   "HL8543": [
     {
       "date": "28 Nov 2026",
+      "from": "Kumamoto(KMJ)",
+      "to": "Busan(PUS)",
+      "flight": "ZE968",
+      "flight_time": "—"
+    },
+    {
+      "date": "28 Nov 2026",
       "from": "Busan(PUS)",
       "to": "Kumamoto(KMJ)",
       "flight": "ZE967",
@@ -7973,7 +7980,7 @@
       "from": "Tokyo(NRT)",
       "to": "Seoul(ICN)",
       "flight": "ZE602",
-      "flight_time": "—"
+      "flight_time": "2:22"
     },
     {
       "date": "27 Nov 2026",
