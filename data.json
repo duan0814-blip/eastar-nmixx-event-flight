@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28 07:07:15",
+  "last_updated": "2026-11-28 08:07:15",
   "HL8717": [
     {
       "date": "27 Nov 2026",
@@ -1991,6 +1991,13 @@
     }
   ],
   "HL8599": [
+    {
+      "date": "28 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Sapporo(CTS)",
+      "flight": "ZE625",
+      "flight_time": "—"
+    },
     {
       "date": "27 Nov 2026",
       "from": "Bangkok(BKK)",
@@ -7926,6 +7933,13 @@
     }
   ],
   "HL8544": [
+    {
+      "date": "27 Nov 2026",
+      "from": "Seoul(ICN)",
+      "to": "Tokyo(NRT)",
+      "flight": "ZE601",
+      "flight_time": "—"
+    },
     {
       "date": "27 Nov 2026",
       "from": "Chiang Mai(CNX)",
